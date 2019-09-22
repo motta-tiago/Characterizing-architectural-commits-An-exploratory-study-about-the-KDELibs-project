@@ -1,0 +1,1106 @@
+Author of commit;Amount of confirmed messages;Author of commit;Amount of detected messages;Author of commit;Amount of commits in the last ten years;Author of commit;Amount of commits in the project
+David Faure <faure@kde.org>;28;Aaron J. Seigo <aseigo@kde.org>;303;David Faure;3590;David Faure;9839
+Aaron J. Seigo <aseigo@kde.org>;26;David Faure <faure@kde.org>;279;Aaron J. Seigo;2980;Dirk Mueller;4725
+Dawit Alemayehu <adawit@kde.org>;16;David Vignoni <david@icon-king.com>;157;Script Kiddy;1438;Stephan Kulow;3689
+Michael Jansen <kde@michael-jansen.biz>;10;Alexander Neundorf <neundorf@kde.org>;155;Marco Martin;1375;Waldo Bastian;3391
+Andreas Hartmetz <ahartmetz@gmail.com>;9;Maks Orlovich <maksim@kde.org>;116;Maks Orlovich;1183;Aaron J. Seigo;3192
+Alexander Neundorf <neundorf@kde.org>;8;Germain Garand <germain@ebooksfrance.org>;100;Laurent Montel;1057;Script Kiddy;2553
+Kevin Ottens <ervin@kde.org>;7;Matthias Kretz <kretz@kde.org>;99;Dawit Alemayehu;869;Christoph Cullmann;2469
+Matthias Kretz <kretz@kde.org>;7;Marco Martin <notmart@gmail.com>;95;Matthias Kretz;866;Laurent Montel;2357
+Allen Winter <winter@kde.org>;6;Laurent Montel <montel@kde.org>;92;Christoph Cullmann;824;Maks Orlovich;1858
+Michael Pyne <mpyne@kde.org>;6;Kevin Ottens <ervin@kde.org>;90;Dirk Mueller;813;Harri Porten;1661
+Peter Penz <peter.penz19@gmail.com>;5;David Jonathon Miller <djmdave@gmail.com>;85;Sebastian Trueg;791;Dawit Alemayehu;1656
+Sebastian Sauer <mail@dipe.org>;5;Dawit Alemayehu <adawit@kde.org>;78;Rafael Fernández López;684;Simon Hausmann;1629
+David Nolden <david.nolden.kde@art-master.de>;4;Rob Scheepmaker <r.scheepmaker@student.utwente.nl>;69;Germain Garand;639;Lars Knoll;1523
+Frederik Gladhorn <gladhorn@kde.org>;4;Nuno Fernades Pinheiro <nuno@oxygen-icons.org>;67;Christian Ehrlicher;628;George Staikos;1378
+Laurent Montel <montel@kde.org>;4;Pino Toscano <pino@kde.org>;67;Albert Astals Cid;609;Marco Martin;1375
+Paulo Romulo <paulo.romulo@kdemail.net>;4;Sebastian Trueg <sebastian@trueg.de>;67;Kevin Ottens;609;Carsten Pfeiffer;1254
+Christoph Cullmann <cullmann@kde.org>;3;Michael Jansen <kde@michael-jansen.biz>;64;Stephen Kelly;546;Matthias Kretz;1252
+Germain Garand <germain@ebooksfrance.org>;3;Peter Penz <peter.penz19@gmail.com>;63;Pino Toscano;544;Luboš Luňák;1097
+Lukáš Tinkl <lukas@kde.org>;3;Allen Winter <winter@kde.org>;55;Harri Porten;538;Ralf Habacker;954
+Maks Orlovich <maksim@kde.org>;3;Andreas Hartmetz <ahartmetz@gmail.com>;55;Allen Winter;532;Germain Garand;913
+Marco Martin <notmart@gmail.com>;3;Christoph Cullmann <cullmann@kde.org>;52;Alexander Neundorf;528;Dominik Haumann;901
+Rafael Fernández López <ereslibre@kde.org>;3;Rafael Fernández López <ereslibre@kde.org>;52;Peter Penz;473;Alexander Neundorf;883
+Sebastian Trueg <sebastian@trueg.de>;3;Frederik Gladhorn <gladhorn@kde.org>;50;Andreas Hartmetz;460;Christian Ehrlicher;846
+Stephen Kelly <steveire@gmail.com>;3;Sebastian Sauer <mail@dipe.org>;50;Sebastian Sauer;432;Sebastian Trueg;792
+Will Stephenson <wstephenson@kde.org>;3;Harri Porten <porten@kde.org>;47;Dominik Haumann;419;Hamish Rodda;747
+Àlex Fiestas <afiestas@kde.org>;2;David Nolden <david.nolden.kde@art-master.de>;41;Erlend Hamberg;404;Albert Astals Cid;730
+Alex Merry <kde@randomguy3.me.uk>;2;Ralf Habacker <ralf.habacker@freenet.de>;39;Alex Merry;382;Kevin Ottens;709
+Andrea Iacovitti <aiacovitti@libero.it>;2;Dominik Haumann <dhaumann@kde.org>;38;Ralf Habacker;372;Rafael Fernández López;684
+Dario Freddi <drf@kde.org>;2;Chusslove Illich <caslav.ilic@gmx.net>;36;Urs Wolfer;361;Thiago Macieira;660
+Hamish Rodda <rodda@kde.org>;2;Christian Ehrlicher <ch.ehrlicher@gmx.de>;35;Christoph Feck;353;Stephan Binner;650
+Jeremy Paul Whiting <jpwhiting@kde.org>;2;Andreas Pakulat <apaku@gmx.de>;32;Frederik Gladhorn;342;Tobias Koenig;649
+John Layt <john@layt.net>;2;John Layt <john@layt.net>;29;Andrea Iacovitti;330;Stefan Westerfeld;645
+Lamarque V. Souza <lamarque@kde.org>;2;Dirk Mueller <mueller@kde.org>;28;Luboš Luňák;327;Michael Goffioul;642
+Michel Ludwig <michel.ludwig@gmail.com>;2;Thiago Macieira <thiago@kde.org>;27;Chusslove Illich;313;Allen Winter;618
+Milian Wolff <mail@milianw.de>;2;Milian Wolff <mail@milianw.de>;26;David Nolden;307;Pino Toscano;615
+Pino Toscano <pino@kde.org>;2;Urs Wolfer <uwolfer@kde.org>;26;Michael Jansen;291;Allan Sandfeld Jensen;604
+Thiago Macieira <thiago@kde.org>;2;Christoph Feck <christoph@maxiom.de>;25;Aaron Seigo;281;Joseph Wenninger;594
+Valentin Rusu <kde@rusu.info>;2;Michael Pyne <mpyne@kde.org>;25;Oswald Buddenhagen;275;Sebastian Sauer;559
+Vishesh Handa <handa.vish@gmail.com>;2;Aaron Seigo <aseigo@kde.org>;24;Thiago Macieira;274;Stephen Kelly;546
+Aleix Pol <aleixpol@kde.org>;1;Alex Merry <kde@randomguy3.me.uk>;24;David Jarvie;231;Anders Lund;527
+Ben Cooksley <bcooksley@kde.org>;1;Luboš Luňák <l.lunak@kde.org>;23;Matthew Woehlke;230;Ivan E. Moore II;484
+Bernd Buschinski <b.buschinski@googlemail.com>;1;Stephen Kelly <steveire@gmail.com>;21;Aurélien Gâteau;221;Jarosław Staniek;483
+Chani Armitage <chanika@gmail.com>;1;Jeremy Paul Whiting <jpwhiting@kde.org>;20;Pascal Létourneau;217;Torsten Rahn;475
+Christian Schaarschmidt <schaarsc@gmx.de>;1;Will Stephenson <wstephenson@kde.org>;20;Bernhard Beschow;215;Peter Penz;473
+Chusslove Illich <caslav.ilic@gmx.net>;1;Josef Spillner <spillner@kde.org>;19;Andreas Pakulat;211;Alex Zepeda;470
+Dan Vrátil <dvratil@redhat.com>;1;Dario Freddi <drf@kde.org>;18;John Layt;202;Urs Wolfer;465
+Daniel Gollub <dgollub@suse.de>;1;Oswald Buddenhagen <ossi@kde.org>;17;Milian Wolff;200;Andreas Hartmetz;460
+Dirk Mueller <mueller@kde.org>;1;Albert Astals Cid <tsdgeos@terra.es>;16;Jarosław Staniek;193;Matthias Ettrich;429
+Erlend Hamberg <ehamberg@gmail.com>;1;Jakob Petsovits <jpetso@gmx.at>;16;Hamish Rodda;186;Oswald Buddenhagen;417
+Frank Reininghaus <frank78ac@googlemail.com>;1;Erlend Hamberg <ehamberg@gmail.com>;15;Michael Pyne;177;Nicolas Goutte;415
+Fredrik Höglund <fredrik@kde.org>;1;Frank Reininghaus <frank78ac@googlemail.com>;14;Dario Freddi;175;Erlend Hamberg;404
+Friedrich W. H. Kossebau <kossebau@kde.org>;1;Helio Castro <helio@kde.org>;14;Carlo Segato;170;Adriaan de Groot;395
+George Kiagiadakis <kiagiadakis.george@gmail.com>;1;Jarosław Staniek <staniek@kde.org>;14;Stephan Kulow;169;Peter Kelly;393
+Harri Porten <porten@kde.org>;1;Joseph Wenninger <kde@jowenn.at>;14;Fredrik Höglund;167;Pascal Létourneau;392
+Helio Castro <helio@kde.org>;1;Albert Astals Cid <aacid@kde.org>;13;Jeremy Paul Whiting;164;Benjamin Meyer;384
+Jacopo De Simoi <wilderkde@gmail.com>;1;David Jarvie <djarvie@kde.org>;12;Montel Laurent;164;Alex Merry;382
+Jonathan Michael Thomas <echidnaman@kubuntu.org>;1;Fredrik Höglund <fredrik@kde.org>;12;Chani Armitage;163;Hans Petter Bieker;380
+Josef Spillner <spillner@kde.org>;1;Nick Shaforostoff <shafff@ukr.net>;12;David Vignoni;161;Frederik Fouvry;364
+Luigi Toscano <luigi.toscano@tiscali.it>;1;Raphael Kubo da Costa <kubito@gmail.com>;12;Patrick von Reth;154;Christoph Feck;353
+Mario Bensi <mbensi@ipsquad.net>;1;Robin Pedersen <robinpeder@gmail.com>;12;Allan Sandfeld Jensen;153;Alexander Kellett;347
+Michael David Howell <mhowell123@gmail.com>;1;Hamish Rodda <rodda@kde.org>;11;Patrick Spendrin;151;Frederik Gladhorn;342
+Nick Shaforostoff <shafff@ukr.net>;1;Luigi Toscano <luigi.toscano@tiscali.it>;11;Adriaan de Groot;148;Kurt Granroth;337
+Nicola Gigante <nicola.gigante@gmail.com>;1;Matthew Woehlke <mw_triad@users.sourceforge.net>;11;Davide Bettio;135;Andrea Iacovitti;330
+Oswald Buddenhagen <ossi@kde.org>;1;Michael Leupold <lemma@confuego.org>;11;Rob Scheepmaker;134;Chusslove Illich;327
+Philipp Schmidt <philschmidt@gmx.net>;1;Richard Dale <richard.j.dale@gmail.com>;11;l10n daemon script;130;Antti Koivisto;323
+Simon Persson <simonpersson1@gmail.com>;1;Sebastian Trueg <trueg@kde.org>;11;Olivier Goffart;130;André Wöbbeking;313
+Thomas Zander <zander@kde.org>;1;Andrea Iacovitti <aiacovitti@libero.it>;10;Petri Damstén;129;Ellis Whitehead;312
+Total Resultado;232;Bernhard Loos <nhuh.put@web.de>;10;Valentin Rusu;127;David Nolden;307
+;;Burkhard Lück <lueck@hube-lueck.de>;10;André Wöbbeking;126;Koos Vriezen;305
+;;Friedrich W. H. Kossebau <kossebau@kde.org>;10;Joseph Wenninger;121;Daniel M. Duley;292
+;;Paulo Romulo <paulo.romulo@kdemail.net>;10;Sebastian Pipping;119;Michael Jansen;291
+;;Raphael Kubo da Costa <rakuco@FreeBSD.org>;10;Rolf Eike Beer;117;Frerich Raabe;286
+;;Alex Fiestas <alex@eyeos.org>;9;Friedrich W. H. Kossebau;116;Preston Brown;286
+;;Jeremy Whiting <jpwhiting@kde.org>;9;Nick Shaforostoff;116;Aaron Seigo;281
+;;Olivier Goffart <ogoffart@kde.org>;9;Raphael Kubo da Costa;113;David Jarvie;273
+;;Patrick Spendrin <ps_ml@gmx.de>;9;Will Stephenson;110;Malte Starostik;255
+;;Patrick von Reth <vonreth@kde.org>;9;Thomas McGuire;108;Daniel Molkentin;243
+;;Vishesh Handa <handa.vish@gmail.com>;9;Robin Pedersen;105;Olivier Goffart;243
+;;Adriaan de Groot <groot@kde.org>;8;Tobias Koenig;101;Leo Savernik;241
+;;Allen Winter <allen.winter@kdab.com>;8;Adenilson Cavalcanti Da Silva;99;Matthew Woehlke;230
+;;Andreas Kling <info@andreaskling.com>;8;Viacheslav Tokarev;99;Antonio Larrosa Jimenez;226
+;;Jason Stubbs <jasonbstubbs@gmail.com>;8;Bernd Buschinski;97;Mirko Boehm;223
+;;Jos van den Oever <jos@vandenoever.info>;8;Burkhard Lück;97;Zack Rusin;223
+;;Lukas Tinkl <lukas@kde.org>;8;Alexis Ménard;96;Aurélien Gâteau;221
+;;Lukáš Tinkl <lukas@kde.org>;8;Josef Spillner;96;Peter Kümmel;221
+;;Chani Armitage <chanika@gmail.com>;7;Michel Ludwig;96;Lukáš Tinkl;220
+;;Montel Laurent <montel@kde.org>;7;Lukáš Tinkl;95;Fredrik Höglund;217
+;;Nicola Gigante <nicola.gigante@gmail.com>;7;David Jonathon Miller;90;Bernhard Beschow;215
+;;Nicolas Goutte <nicolasg@snafu.de>;7;Anne-Marie Mahfouf;89;Andreas Pakulat;211
+;;Petri Damstén <petri.damsten@kdemail.net>;7;Robert Knight;89;Malcolm Hunter;211
+;;Riccardo Iaconelli <riccardo@kde.org>;7;Jakob Petsovits;87;John Layt;202
+;;Viacheslav Tokarev <tsjoker@gmail.com>;7;Benjamin Reed;86;Nikolas Zimmermann;202
+;;Anders Lund <anders@alweb.dk>;6;Volker Krause;86;Milian Wolff;200
+;;André Wöbbeking <woebbeking@kde.org>;6;Michael Leupold;84;Reginald Stadlbauer;196
+;;Bernd Buschinski <b.buschinski@googlemail.com>;6;Jakub Stachowski;81;Charles Samuels;193
+;;Bernhard Beschow <bbeschow@cs.tu-berlin.de>;6;Lukas Tinkl;81;Michael Pyne;193
+;;Bertjan Broeksema <broeksema@kde.org>;6;Bernhard Loos;80;Cornelius Schumacher;192
+;;Carlo Segato <brandon.ml@gmail.com>;6;Darío Andrés Rodríguez;76;Benjamin Reed;188
+;;Christophe Giboudeaux <cgiboudeaux@gmx.com>;6;Igor Trindade Oliveira;76;Tobias Anton;188
+;;Davide Bettio <davide.bettio@kdemail.net>;6;John Tapsell;76;Brad Hards;182
+;;Johann Ollivier Lapeyre <johann.ollivierlapeyre@gmail.com>;6;Ludovic Grossard;75;Nadeem Hasan;177
+;;Jonathan Riddell <jr@jriddell.org>;6;Simon Hausmann;73;Dario Freddi;175
+;;Leo Savernik <l.savernik@aon.at>;6;Matt Broadstone;71;Lauri Watts;174
+;;Luca Beltrame <lbeltrame@kde.org>;6;Frank Osterfeld;70;Michael Matz;174
+;;Robert Knight <robertknight@gmail.com>;6;Nuno Fernades Pinheiro;69;Carlo Segato;170
+;;Simon Persson <simonpersson1@gmail.com>;6;Vishesh Handa;69;Richard J. Moore;169
+;;Thomas Friedrichsmeier <thomas.friedrichsmeier@ruhr-uni-bochum.de>;6;Tom Albers;65;Kalle Dalheimer;166
+;;Valentin Rusu <kde@rusu.info>;6;Anders Lund;64;Jeremy Paul Whiting;164
+;;Danny Allen <dannya@kde.org>;5;Rivo Laks;64;Montel Laurent;164
+;;Frank Osterfeld <frank.osterfeld@kdemail.net>;5;Thomas Zander;64;Chani Armitage;163
+;;Matt Rogers <mattr@kde.org>;5;Nicola Gigante;62;Thomas Braxton;162
+;;Michel Ludwig <michel.ludwig@gmail.com>;5;Thomas Friedrichsmeier;62;David Vignoni;161
+;;Rolf Eike Beer <kde@opensource.sf-tec.de>;5;Andreas Kling;61;Geert Jansen;160
+;;Romain Pokrzywka <romain@kdab.net>;5;Riccardo Iaconelli;60;Michael Brade;158
+;;Thomas Braxton <kde.braxton@gmail.com>;5;Stephan Binner;59;Jonathan Riddell;157
+;;Volker Krause <vkrause@kde.org>;5;Till Adam;59;Éric Bischoff;156
+;;Alexis Ménard <menard@kde.org>;4;Christophe Giboudeaux;57;Jakub Stachowski;155
+;;Anne-Marie Mahfouf <annma@kde.org>;4;Richard Dale;57;Patrick von Reth;154
+;;Artem Serebriyskiy <v.for.vandal@gmail.com>;4;Sebastian Kügler;57;Patrick Spendrin;151
+;;Artur Duque de Souza <asouza@kde.org>;4;Thomas Braxton;57;Ludovic Grossard;149
+;;Aurélien Gâteau <agateau@kde.org>;4;Jacopo De Simoi;55;Matt Rogers;148
+;;Dmitry Suzdalev <dimsuz@gmail.com>;4;Richard J. Moore;55;Rik Hemsley;147
+;;Guillermo Antonio Amaral Bastidas <gamaral@kde.org>;4;Jason Stubbs;52;Scott Wheeler;144
+;;Jacopo De Simoi <wilderkde@gmail.com>;4;Daniel Teske;51;Davide Bettio;143
+;;Jakub Stachowski <qbast@go2.pl>;4;Andrew Coles;50;John Tapsell;143
+;;Lamarque V. Souza <lamarque@kde.org>;4;Frank Reininghaus;49;Andreas Kling;142
+;;Michael David Howell <mhowell123@gmail.com>;4;Arto Hytönen;48;John Firebaugh;142
+;;Niko Sams <niko.sams@gmail.com>;4;Luigi Toscano;48;Will Stephenson;141
+;;Richard J. Moore <rich@kde.org>;4;Jeff Mitchell;46;Bernhard Rosenkraenzer;138
+;;Wilbert Berendsen <wbsoft@xs4all.nl>;4;Jonathan Riddell;46;Matt Koss;137
+;;Adenilson Cavalcanti Da Silva <cavalcantii@gmail.com>;3;Leo Savernik;46;Friedrich W. H. Kossebau;136
+;;Àlex Fiestas <afiestas@kde.org>;3;Helio Castro;45;Mickael Marchand;134
+;;Andras Mantia <amantia@kde.org>;3;Martin Koller;45;Rob Scheepmaker;134
+;;Andre Duffeck <duffeck@kde.org>;3;Paulo Romulo;45;Tim Jansen;133
+;;Dag Andersen <danders@get2net.dk>;3;Mirko Stocker;44;Volker Krause;133
+;;Daniel Teske <teske@squorn.de>;3;Roberto Raggi;44;Michael Koch;132
+;;Darío Andrés Rodríguez <andresbajotierra@gmail.com>;3;Shaun Reich;43;Espen Sand;131
+;;Eduardo Robles Elvira <edulix@gmail.com>;3;Jacob Rideout;42;Sven Radej;131
+;;George Kiagiadakis <kiagiadakis.george@gmail.com>;3;Romain Pokrzywka;42;Josef Spillner;130
+;;Harald Fernengel <harry@kdevelop.org>;3;Andre Duffeck;40;l10n daemon script;130
+;;Jeff Mitchell <mitchell@kde.org>;3;Matt Rogers;40;Petri Damstén;129
+;;John Tapsell <john.tapsell@kdemail.net>;3;Wang Kai;39;Andras Mantia;128
+;;Kevin Kofler <kevin.kofler@chello.at>;3;Jos van den Oever;38;Valentin Rusu;127
+;;Mario Bensi <mbensi@ipsquad.net>;3;Marijn Kruisselbrink;37;Andrew Coles;126
+;;Martin Koller <kollix@aon.at>;3;Alex Fiestas;36;Matt Broadstone;126
+;;Paolo Capriotti <paolo.capriotti@gmail.com>;3;Erik Lloyd Bunce;36;Sandro Giessl;126
+;;Pascal Létourneau <pascal.letourneau@gmail.com>;3;Luca Beltrame;36;Torben Weis;122
+;;Sebastian Pipping <webmaster@hartwork.org>;3;Peter Kümmel;35;Wilco Greven;122
+;;Simon Hausmann <hausmann@kde.org>;3;Ivan Čukić;34;Ian Reinhart Geiser;120
+;;Sven Brauch <svenbrauch@googlemail.com>;3;Nicolas Goutte;34;Sirtaj Singh Kang;120
+;;Thomas Zander <zander@kde.org>;3;Malcolm Hunter;33;Sebastian Pipping;119
+;;Tobias Koenig <tokoe@kde.org>;3;Michael David Howell;33;Falk Brettschneider;117
+;;Aleix Pol <aleixpol@kde.org>;2;Daniel Laidig;32;Rolf Eike Beer;117
+;;Aleix Pol Gonzalez <aleixpol@gmail.com>;2;Jeremy Whiting;32;Till Adam;117
+;;Alex Neundorf <neundorf@kde.org>;2;Zack Rusin;32;Nick Shaforostoff;116
+;;Ambroz Bizjak <ambrop7@gmail.com>;2;George Kiagiadakis;30;Helge Deller;115
+;;Benjamin Reed <ranger@befunk.com>;2;Harald Fernengel;30;Raphael Kubo da Costa;113
+;;Brad Hards <bradh@frogmouth.net>;2;Andras Mantia;29;Bernd Gehrmann;110
+;;Charles Samuels <charles@kde.org>;2;Jaime Torres Amate;29;Wynn Wilkes;110
+;;Christophe Giboudeaux <cgiboudeaux@gmail.com>;2;Roman Jarosz;29;Martijn Klingens;109
+;;Clarence Dang <dang@kde.org>;2;Wilbert Berendsen;29;Thomas Zander;109
+;;David Stephen Hubner <hubnerd@ntlworld.com>;2;Yuri Chornoivan;28;Thomas McGuire;108
+;;Frerich Raabe <raabe@kde.org>;2;Luciano Montanaro;27;Burkhard Lück;106
+;;Gary Cramblitt <garycramblitt@comcast.net>;2;Ambroz Bizjak;26;Anne-Marie Mahfouf;105
+;;Giulio Camuffo <giuliocamuffo@gmail.com>;2;Dmitry Suzdalev;26;Robin Pedersen;105
+;;Gökcen Eraslan <gokcen@pardus.org.tr>;2;Frederik Schwarzer;26;Wilbert Berendsen;103
+;;Guy Maurel <guy-kde@maurel.de>;2;Giulio Camuffo;26;Adenilson Cavalcanti Da Silva;99
+;;Hasso Tepper <hasso@kde.org>;2;Jaime Torres;26;Matthias Elter;99
+;;Ingomar Wesp <ingomar@wesp.name>;2;Jaison Lee;26;Viacheslav Tokarev;99
+;;Jaime Torres Amate <jtamate@gmail.com>;2;Thierry Bastian;26;Clarence Dang;98
+;;Jaison Lee <lee.jaison@gmail.com>;2;Bruno de Oliveira Abinader;25;Bernd Buschinski;97
+;;Jason Harris <kstars@30doradus.org>;2;Nicolas Lécureuil;25;Alexis Ménard;96
+;;Jason vanRijn Kasper <vr@movingparts.net>;2;Alessandro Diaferia;24;Michel Ludwig;96
+;;Jonathan Marten <jjm@keelhaul.me.uk>;2;Holger Freyther;24;Martin Jones;93
+;;Jonathan Michael Thomas <echidnaman@kubuntu.org>;2;Mario Bensi;24;Frans Englich;92
+;;Joseph Burns <jburns05.phate@gmail.com>;2;Àlex Fiestas;23;Daniel Naber;90
+;;Kai Uwe Broulik <kde@privat.broulik.de>;2;Mirko Boehm;23;David Jonathon Miller;90
+;;Krzysztof Lichota <krzysiek@lichota.net>;2;Martin T. H. Sandsmark;22;Robert Knight;89
+;;Lukas Tinkl <ltinkl@redhat.com>;2;Thomas Lübking;22;Jakob Petsovits;88
+;;Marijn Kruisselbrink <m.kruisselbrink@student.tue.nl>;2;Brad Hards;21;Daniel Teske;86
+;;Mario Bensi <nef@ipsquad.net>;2;Freek de Kruijf;20;Tom Albers;86
+;;Matthias Fuchs <mat69@gmx.net>;2;Hugo Pereira Da Costa;20;Michel Hermier;85
+;;Mirko Boehm <mirko@kde.org>;2;Jonathan Schmidt-Dominé;20;Helio Castro;84
+;;Paul Giannaros <ceruleanblaze@gmail.com>;2;Lamarque V. Souza;20;Michael Leupold;84
+;;Richard Johnson <rjohnson@kde.org>;2;Matt Williams;20;Frank Osterfeld;82
+;;Roman Jarosz <kedgedev@gmail.com>;2;Thomas Häber;20;Harald Fernengel;82
+;;Sebastian Kügler <sebas@kde.org>;2;Andreas Holzammer;19;Lukas Tinkl;81
+;;Shaun Reich <shaun.reich@kdemail.net>;2;Andrius Štikonas;19;Marc Mutz;81
+;;Stephan Binner <binner@kde.org>;2;Artur Duque de Souza;19;Szombathelyi György;81
+;;Teo Mrnjavac <teo@kde.org>;2;Christopher Blauvelt;19;Bernhard Loos;80
+;;Thomas McGuire <mcguire@kde.org>;2;Shane King;19;Rolf Magnus;80
+;;Till Adam <adam@kde.org>;2;Siraj Razick;19;Cristian Tibirna;78
+;;Yuri Chornoivan <yurchor@ukr.net>;2;Thomas Georgiou;19;Peter Putzer;78
+;;Alex Richardson <arichardson.kde@googlemail.com>;1;Beat Wolf;18;Caleb Tennis;76
+;;Allan Sandfeld Jensen <kde@carewolf.com>;1;Benjamin K. Stuhl;18;Darío Andrés Rodríguez;76
+;;Ananta Palani <anantapalani@gmail.com>;1;Casper Boemann;18;Igor Trindade Oliveira;76
+;;Andre Moreira Magalhaes <andrunko@gmail.com>;1;Charles Samuels;18;Rob Buis;74
+;;Andrea Diamantini <adjam7@gmail.com>;1;Marc Mutz;18;nobody;72
+;;Andrei Amuraritei <sirdeiu@bydeiu.net>;1;Matthias Fuchs;18;Thomas Nagy;72
+;;Andrew Coles <andrew.i.coles@googlemail.com>;1;Niko Sams;18;Martin Koller;71
+;;Antonio Rojas <arojas@archlinux.org>;1;Bram Schoenmakers;17;Nuno Fernades Pinheiro;69
+;;Avgoustinos Kadis <avgoustinos.kadis@kdemail.net>;1;Carsten Pfeiffer;17;Ryan Cumming;69
+;;Barış Metin <baris@pardus.org.tr>;1;Cyrille Berger Skott;17;Vishesh Handa;69
+;;Bastian Holst <bastianholst@gmx.de>;1;Hasso Tepper;17;Andreas Schlapbach;67
+;;Ben Cooksley <bcooksley@kde.org>;1;Jonathan Marten;17;Hasso Tepper;67
+;;Benoît Jacob <jacob.benoit.1@gmail.com>;1;Paul Giannaros;17;Karol Szwed;67
+;;Brian David Pritchett <batenkaitos@gmail.com>;1;Ryan P. Bitanga;17;Holger Freyther;66
+;;Bruno de Oliveira Abinader <brunoabinader@gmail.com>;1;Kevin Kofler;16;Matthias Hoelzer-Kluepfel;66
+;;Caleb Tennis <caleb@gentoo.org>;1;Torgny Nyblom;16;Werner Trobin;66
+;;Casper Boemann <cbr@boemann.dk>;1;Aleix Pol;15;İsmail Dönmez;65
+;;Casper van Donderen <casper.vandonderen@gmail.com>;1;Chusslove Illich (Часлав Илић);15;cvs;64
+;;Christian Mollekopf <chrigi_1@fastmail.fm>;1;Constantin Berzan;15;Neil Stevens;64
+;;Christian Schaarschmidt <schaarsc@gmx.de>;1;Gilles Caulier;15;Richard Dale;64
+;;Christoph Pfister <christophpfister@gmail.com>;1;Kurt Hindenburg;15;Rivo Laks;64
+;;Christopher Blauvelt <cblauvelt@gmail.com>;1;Marta Rybczyńska;15;Nicola Gigante;63
+;;Chusslove Illich (Часлав Илић) <caslav.ilic@gmx.net>;1;Matias Valdenegro Toro;15;Luciano Montanaro;62
+;;Cyrille Berger Skott <cyb@lepi.org>;1;Mirko Boehm (AWS);15;Thomas Friedrichsmeier;62
+;;Dan Vrátil <dvratil@redhat.com>;1;Richard Johnson;15;Christian Gebauer;61
+;;Daniel Calviño Sánchez <danxuliu@gmail.com>;1;Teo Mrnjavac;15;Nicolas Hadacek;61
+;;Daniel Gollub <dgollub@suse.de>;1;Andrius da Costa Ribas;14;Paulo Moura Guedes;60
+;;Daniel Laidig <laidig@kde.org>;1;Boudewijn Rempt;14;Riccardo Iaconelli;60
+;;Daniel M. Duley <daniel.duley@verizon.net>;1;Diego Iastrubni;14;Till Krech;60
+;;Daniel Nicoletti <dantti85-kde@yahoo.com.br>;1;Josep Ma. Ferrer;14;David Sweet;59
+;;Darin Adler <darin@apple.com>;1;Marco MArtin;14;Christian Couder;57
+;;Dennis Nienhüser <earthwings@gentoo.org>;1;Alexander Wiedenbruch;13;Christophe Giboudeaux;57
+;;Diego Iastrubni <elcuco@kde.org>;1;George Staikos;13;Gary Cramblitt;57
+;;Diego Pettenò <flameeyes@gmail.com>;1;Michel Hermier;13;Sebastian Kügler;57
+;;Dominik Haumann <dhdev@gmx.de>;1;Norbert Frese;13;Kenneth Wimer;56
+;;Egon Willighagen <egon.willighagen@gmail.com>;1;Thorsten Staerk;13;Stefan Schimanski;56
+;;Eike Hein <hein@kde.org>;1;Aleix Pol Gonzalez;12;Thomas Leitner;56
+;;Fathi Boudra <fabo@debian.org>;1;Dan Meltzer;12;Jacopo De Simoi;55
+;;Flavio Castelli <flavio@castelli.name>;1;Jordi Polo;12;Ralf Nolden;55
+;;George Staikos <staikos@kde.org>;1;Kai Uwe Broulik;12;Roberto Raggi;54
+;;Giorgos Tsiapaliokas <terietor@gmail.com>;1;Maciej Mrozowski;12;Frank Karlitschek;52
+;;Heiko Becker <heirecka@exherbo.org>;1;Steve Evans;12;Jason Stubbs;52
+;;Holger Freyther <holger+kde@freyther.de>;1;Thomas Reitelbach;12;Jesse Yurkovich;52
+;;Hrvoje Senjan <hrvoje.senjan@gmail.com>;1;Andrew Lake;11;Christian Esken;51
+;;Ian Monroe <ian.monroe@gmail.com>;1;Ben Cooksley;11;Kurt Pfeifle;51
+;;Ignaz Forster <prefix_kde@digitalimagecorp.de>;1;Benoît Jacob;11;Frank Reininghaus;49
+;;Ilie Halip <lupuroshu@gmail.com>;1;Daniel M. Duley;11;Arto Hytönen;48
+;;Ivo Anjo <knuckles@gmail.com>;1;Eduardo Robles Elvira;11;Bram Schoenmakers;48
+;;James Pike <kdebugs@afterclap.com>;1;Fathi Boudra;11;Luigi Toscano;48
+;;Jeff Cooper <jeff.cooper@kdemail.net>;1;Kevin Krammer;11;bhughes;47
+;;Jekyll Wu <adaptee@gmail.com>;1;Koos Vriezen;11;Chris Howells;47
+;;Jens-Michael Hoffmann <jensmh@gmx.de>;1;Parker Coates;11;Jeff Mitchell;46
+;;Jesper Thomschütz <jesperht@yahoo.com>;1;Richard Lärkäng;11;Matthias Welk;46
+;;John Layt <jlayt@kde.org>;1;Simon Edwards;11;Otto Bruggeman;46
+;;Jonathan Schmidt-Dominé <devel@the-user.org>;1;Bill Egert;10;Richard Lärkäng;46
+;;Jordi Polo <mumismo@gmail.com>;1;Clarence Dang;10;Michael Reiher;45
+;;Josep Ma. Ferrer <txemaq@gmail.com>;1;Craig Drummond;10;Paulo Romulo;45
+;;Juan González Aguilera <kde_devel@opsiland.info>;1;Guy Maurel;10;Chris Cheney;44
+;;Karl Ove Hufthammer <karl@huftis.org>;1;Huynh Huu Long;10;Dominique Devriese;44
+;;Kenneth Wimer <kwwii@bootsplash.org>;1;Ignat Semenov;10;Erik Kjær Pedersen;44
+;;Kevin Funk <kevin@kfunk.org>;1;İsmail Dönmez;10;Mirko Stocker;44
+;;Kevin Krammer <kevin.krammer@gmx.at>;1;James Richard Tyrer;10;Ingo Klöcker;43
+;;Koos Vriezen <koos.vriezen@gmail.com>;1;Jason Harris;10;Melchior Franz;43
+;;Kurt Hindenburg <kurt.hindenburg@gmail.com>;1;Manuel Mommertz;10;Shaun Reich;43
+;;Laszlo Papp <ext-laszlo.papp@nokia.com>;1;Nicolás Alvarez;10;Frederik Holljen;42
+;;Lionel Petit <ptiyo@ipsquad.net>;1;Rex Dieter;10;jacek;42
+;;Luca Beltrame <luca.beltrame@marionegri.it>;1;Rob Buis;10;Jacob Rideout;42
+;;Maciej Mrozowski <reavertm@gmail.com>;1;Stefan Brüns;10;Romain Pokrzywka;42
+;;Manuel Nickschas <sputnick@quassel-irc.org>;1;Stefan Nikolaus;10;Alessandro Praduroux;41
+;;Marc Espie <espie@nerim.net>;1;T.C. Hollingsworth;10;Andre Duffeck;40
+;;Marcos David Dione <mdione@grulic.org.ar>;1;Aaron Eisenberg;9;Marijn Kruisselbrink;40
+;;Martin Gräßlin <mgraesslin@kde.org>;1;Adam Treat;9;Heng Liu;39
+;;Martin T. H. Sandsmark <martin.sandsmark@kde.org>;1;André Marcelo Alvarenga;9;Kurt Hindenburg;39
+;;Matěj Laitl <matej@laitl.cz>;1;Danny Allen;9;Wang Kai;39
+;;Matt Broadstone <mbroadst@gmail.com>;1;Dan Vrátil;9;Jos van den Oever;38
+;;Michael Drueing <michael@drueing.de>;1;Eike Hein;9;David Pashley;37
+;;Mike Arthur <mike@mikemcquaid.com>;1;Gary Cramblitt;9;Alex Fiestas;36
+;;Mirko Boehm (AWS) <mirko@agile-workers.com>;1;Harald Sitter;9;Erik Lloyd Bunce;36
+;;Mirko Stocker <me@misto.ch>;1;Kevin Funk;9;Luca Beltrame;36
+;;Nicolas Lécureuil <neoclust.kde@free.fr>;1;Laszlo Papp;9;Simon Huerlimann;36
+;;Niels Slot <nielsslot@gmail.com>;1;Marcel Partap;9;Holger Schröder;35
+;;Nikhil Marathe <nsm.nikhil@gmail.com>;1;Martin Gräßlin;9;Ilya Baran;35
+;;Ozan Çağlayan <ozan@pardus.org.tr>;1;Oliver Kellogg;9;Jaison Lee;35
+;;Patrick von Reth <patrick.vonreth@gmail.com>;1;Carlos Olmedo Escobar;8;Ivan Čukić;34
+;;Pau Garcia i Quiles <pgquiles@elpauer.org>;1;Craig Duquette;8;Michael David Howell;33
+;;Paulo Moura Guedes <moura@kdewebdev.org>;1;David Johnson;8;Daniel Laidig;32
+;;Pavel Heimlich <tropikhajma@gmail.com>;1;Harsh Chouraria J;8;Danny Allen;32
+;;Percy Camilo Triveño Aucahuasi <percy.camilo.ta@gmail.com>;1;Ivo Anjo;8;Jeremy Whiting;32
+;;Philipp Schmidt <philschmidt@gmx.net>;1;Loic Marteau;8;Carlos Moro;30
+;;Philippe Fremy <phil@freehackers.org>;1;Marc Espie;8;George Kiagiadakis;30
+;;Rafael Fernández López <ereslibre@ereslibre.es>;1;Marcus Gama;8;Klaas Freitag;30
+;;Rahman Duran <a.rahman.duran@gmail.com>;1;Mike Arthur;8;Jaime Torres Amate;29
+;;Raphael Kubo da Costa <raphael.kubo.da.costa@intel.com>;1;Nikita Churaev;8;Roman Jarosz;29
+;;Raymond Wooninck <tittiatcoke@gmail.com>;1;Paulo Moura Guedes;8;Bernd Wuebben;28
+;;Rex Dieter <rdieter@math.unl.edu>;1;Peter Oberndorfer;8;David Smith;28
+;;Rivo Laks <rivolaks@hot.ee>;1;Raymond Wooninck;8;Dima Rogozin;28
+;;Rob Buis <buis@kde.org>;1;Sergio Martins;8;Gioele Barabucci;28
+;;Robby Stephenson <robby@periapsis.org>;1;Tim Beaulen;8;Yuri Chornoivan;28
+;;Roberto Raggi <roberto@kdevelop.org>;1;Vincenzo Di Massa;8;Fernando Llobregat;27
+;;Ryan P. Bitanga <ryan.bitanga@gmail.com>;1;Weng Xuetian;8;Krzysztof Lichota;27
+;;Script Kiddy <scripty@kde.org>;1;Alexander Dymo;7;Lennart Kudling;27
+;;Sergio Martins <iamsergio@gmail.com>;1;Alexander Potashev;7;Michael Haeckel;27
+;;Simon Edwards <simon@simonzone.com>;1;Artem Serebriyskiy;7;Ravikiran Rajagopal;27
+;;Stefan Brüns <stefan.bruens@rwth-aachen.de>;1;Bertjan Broeksema;7;Shaheed Haque;27
+;;Stefan Nikolaus <stefan.nikolaus@kdemail.net>;1;Brian David Pritchett;7;Thomas Kadauke;27
+;;Stephan Kulow <coolo@kde.org>;1;Carsten Niehaus;7;Ambroz Bizjak;26
+;;Stephen Kelly <stephen.kelly@kdab.com>;1;Christoph Pfister;7;Dmitry Suzdalev;26
+;;Steve Evans <stevee@zuken.co.uk>;1;David Stephen Hubner;7;Frederik Schwarzer;26
+;;T.C. Hollingsworth <tchollingsworth@gmail.com>;1;Dimitrios Glentadakis;7;Giulio Camuffo;26
+;;Thierry Bastian <thierry.bastian@trolltech.com>;1;Flavio Castelli;7;Jaime Torres;26
+;;Thomas Braun <thomas.braun@virtuell-zuhause.de>;1;Frerich Raabe;7;Pablo de Vicente;26
+;;Till Adam <till@kdab.com>;1;Gökcen Eraslan;7;rjc;26
+;;Tom Albers <toma@kde.org>;1;Holger Danielsson;7;Thierry Bastian;26
+;;Tom Patzig <tpatzig@suse.de>;1;Holger Schröder;7;Adrian Schroeter;25
+;;Tuomas Suutari <thsuut@utu.fi>;1;Ingomar Wesp;7;Bruno de Oliveira Abinader;25
+;;Vishesh Handa <me@vhanda.in>;1;Jekyll Wu;7;Craig Drummond;25
+;;Weng Xuetian <wengxt@gmail.com>;1;Johann Ollivier Lapeyre;7;Glen Parker;25
+;;Wolfgang Rohdewald <wolfgang@rohdewald.de>;1;Jure Repinc;7;Mario Weilguni;25
+;;Total Resultado;3919;Karl Ove Hufthammer;7;Nicolas Lécureuil;25
+;;;;Kristof Bal;7;Reza Arbab;25
+;;;;Mathias Soeken;7;Stefan Taferner;25
+;;;;Michaël Larouche;7;Wolfram Diestel;25
+;;;;Rafał Rzepecki;7;Alessandro Diaferia;24
+;;;;Rahman Duran;7;Diego Iastrubni;24
+;;;;Allan Sandfeld;6;Jeff Tranter;24
+;;;;Antoni Bella Pérez;6;Jesper Pedersen;24
+;;;;Charles Connell;6;Mario Bensi;24
+;;;;Daniel Nicoletti;6;Àlex Fiestas;23
+;;;;Evgeniy Ivanov;6;Gregory S. Hayes;23
+;;;;Guillermo Antonio Amaral Bastidas;6;Kazuki Ohta;23
+;;;;Jesse Lee Zamora;6;Leon Bottou;23
+;;;;Jonathan Michael Thomas;6;Thomas Lübking;23
+;;;;Leo Franchi;6;Casper Boemann;22
+;;;;Lukas Appelhans;6;Holger Schurig;22
+;;;;Mark Gaiser;6;Ilya Konstantinov;22
+;;;;Michał Dutkiewicz;6;Ivor Hewitt;22
+;;;;Paolo Capriotti;6;Marc Espie;22
+;;;;Percy Leonhardt;6;Martin T. H. Sandsmark;22
+;;;;Sergio Luis Martins;6;Michael Ritzert;22
+;;;;Shawn Starr;6;Chris Schlaeger;21
+;;;;Simon Paul St James;6;Jan Schäfer;21
+;;;;Simon Persson;6;Pedro Morais;21
+;;;;Thanomsub Noppaburana;6;Thomas Tanghus Olsen;21
+;;;;Thomas Braun;6;Cyrille Berger Skott;20
+;;;;Tomáš Trnka;6;Freek de Kruijf;20
+;;;;Wouter Becq;6;Hugo Pereira Da Costa;20
+;;;;Alexey Chernov;5;Jonathan Schmidt-Dominé;20
+;;;;Andrea Diamantini;5;Lamarque V. Souza;20
+;;;;Andre Heinecke;5;Laurence Anderson;20
+;;;;Andre Moreira Magalhaes;5;Matt Williams;20
+;;;;Andre Woebbeking;5;Michaël Larouche;20
+;;;;Arno Rehn;5;Nicolas Brodu;20
+;;;;Bruno Bigras;5;Stefan Asserhäll;20
+;;;;Cédric Borgese;5;Thomas Häber;20
+;;;;Dag Andersen;5;Thorsten Staerk;20
+;;;;Eduard Vladislavovich Sukharev;5;Alex Kern;19
+;;;;Eloy Cuadra;5;Andreas Holzammer;19
+;;;;Enrique Matías Sánchez;5;Andrius Štikonas;19
+;;;;Federico Zenith;5;Artur Duque de Souza;19
+;;;;Frank Weng;5;Christopher Blauvelt;19
+;;;;Gregory Schlomoff;5;Marcus Camen;19
+;;;;Ian Monroe;5;Per Winkvist;19
+;;;;Ian Reinhart Geiser;5;Shane King;19
+;;;;Ivan Petrouchtchak;5;Siraj Razick;19
+;;;;Jaroslav Řezník;5;Thomas Georgiou;19
+;;;;Joseph Kerian;5;Adam Treat;18
+;;;;Lasse Liehu;5;Beat Wolf;18
+;;;;Manolo Valdes;5;Benjamin K. Stuhl;18
+;;;;Marcelino Villarino Aguiar;5;Denis Perchine II;18
+;;;;Marek Laane;5;Johannes Sixt;18
+;;;;Markus Meik Slopianka;5;Luís Pedro Coelho;18
+;;;;Michael Drueing;5;Matthias Fuchs;18
+;;;;Nicolas Ternisien;5;Niko Sams;18
+;;;;Pau Garcia i Quiles;5;Stefan Nikolaus;18
+;;;;Pavel Heimlich;5;Andreas Beckermann;17
+;;;;Percy Camilo Triveño Aucahuasi;5;Arnold Krille;17
+;;;;Rafał Miłecki;5;Benoit Walter;17
+;;;;Stas Verberkt;5;David Saxton;17
+;;;;Stefan Asserhäll;5;Derek Spears;17
+;;;;Stefan Majewsky;5;Ignacio Castaño Aguado;17
+;;;;Sven Brauch;5;James Richard Tyrer;17
+;;;;Teemu Rytilahti;5;Jason Harris;17
+;;;;Tommi Tervo;5;Jonathan Marten;17
+;;;;Will Entriken;5;Kevin Krammer;17
+;;;;Yukiko Bando;5;Paul Giannaros;17
+;;;;Aaron Reichman;4;Ryan P. Bitanga;17
+;;;;Alex Neundorf;4;Kevin Kofler;16
+;;;;Ananta Palani;4;Mark Donohoe;16
+;;;;Arthur Renato Mello;4;Reinhold Kainhofer;16
+;;;;Barış Metin;4;Tim Beaulen;16
+;;;;Bastian Holst;4;Torgny Nyblom;16
+;;;;Benjamin Meyer;4;Aleix Pol;15
+;;;;Bernhard Rosenkraenzer;4;Alexander Dymo;15
+;;;;Christian Mueller;4;Arend van Beelen jr;15
+;;;;Daniele E. Domenichelli;4;Bill Soudan;15
+;;;;Dennis Nienhüser;4;Boudewijn Rempt;15
+;;;;Funda Wang;4;Chusslove Illich (Часлав Илић);15
+;;;;George Goldberg;4;Constantin Berzan;15
+;;;;Gilles Chauvin;4;Gilles Caulier;15
+;;;;Grégory Oestreicher;4;Jens Dagerbo;15
+;;;;Gustavo P. Boiko;4;Judin Max;15
+;;;;Ingo Klöcker;4;Marta Rybczyńska;15
+;;;;Jiří Pinkava;4;Matias Valdenegro Toro;15
+;;;;Konstantinos Smanis;4;Mirko Boehm (AWS);15
+;;;;Krzysztof Lichota;4;Oliver Kellogg;15
+;;;;Leonardo Finetti;4;Richard Johnson;15
+;;;;Martin Aumüller;4;Robert Williams;15
+;;;;Michael Olbrich;4;Teo Mrnjavac;15
+;;;;Nico Kruber;4;Andrej Vernekar;14
+;;;;Nikhil Marathe;4;Andrius da Costa Ribas;14
+;;;;Pierre Rossi;4;Andy Fawcett;14
+;;;;Robert Zwerus;4;Ewald Snel;14
+;;;;Rodrigo Belem;4;Jeroen Wijnhout;14
+;;;;Scott Wheeler;4;Joerg Habenicht;14
+;;;;Sean Harmer;4;José Pablo Ezequiel Fernández;14
+;;;;Seb Ruiz;4;Josep Ma. Ferrer;14
+;;;;Simeon Bird;4;Kevin Puetz;14
+;;;;Sune Vuorela;4;Marco MArtin;14
+;;;;Szombathelyi György;4;Marcus Gama;14
+;;;;Thorsten Zachmann;4;Alexander Wiedenbruch;13
+;;;;Tim Hutt;4;Andy Goossens;13
+;;;;Troy Unrau;4;Emily Ezust;13
+;;;;Victor Dodon;4;Guillaume Laurent;13
+;;;;Xavier Vello;4;Jan Villat;13
+;;;;Aaron Charles Reichman;3;Jean-Baptiste Mardelle;13
+;;;;Adrian Page;3;John Corey;13
+;;;;Alexander Mezin;3;Meni Livne;13
+;;;;A. Lynn Spehr;3;Navindra Umanee;13
+;;;;Andreas Aardal Hanssen;3;Norbert Frese;13
+;;;;Anselmo Melo;3;Richard Smith;13
+;;;;Björn Ruberg;3;Aleix Pol Gonzalez;12
+;;;;Bruno Virlet;3;Bryce Nesbitt;12
+;;;;Christian Schaarschmidt;3;Dan Meltzer;12
+;;;;Daniel Calviño Sánchez;3;Dave Corrie;12
+;;;;Daniel Molkentin;3;Duncan Mac-Vicar Prett;12
+;;;;Dashamir Hoxha;3;Federico Zenith;12
+;;;;Dirk Rathlev;3;Jordi Polo;12
+;;;;Emil Sedgh;3;Kai Uwe Broulik;12
+;;;;Gabriel Anderson;3;Maciej Mrozowski;12
+;;;;Håvard Wall;3;Matthias Kiefer;12
+;;;;Heiko Becker;3;Primoz Anzur;12
+;;;;Hoàng Đức Hiếu;3;Steve Evans;12
+;;;;Isaac Clerencia;3;Thomas Diehl;12
+;;;;Jason vanRijn Kasper;3;Thomas Reitelbach;12
+;;;;Joseph Burns;3;Andrew Lake;11
+;;;;Juan Luis Baptiste;3;Ben Cooksley;11
+;;;;Lamarque Vieira Souza;3;Benoît Jacob;11
+;;;;Lionel Petit;3;Eduardo Robles Elvira;11
+;;;;Loïc Corbasson;3;Fathi Boudra;11
+;;;;Marcos David Dione;3;Frank Schuette;11
+;;;;Marcus Hufgard;3;Gregory Mokhin;11
+;;;;Martin Blumenstingl;3;Harald Sitter;11
+;;;;Matthew John Dawson;3;James Greenhalgh;11
+;;;;Matthias Grimrath;3;Jens Herden;11
+;;;;Mauricio Piacentini;3;John Ratke;11
+;;;;Nicolas Roffet;3;Lotzi Boloni;11
+;;;;Ramon Zarazua;3;Matthias Welwarsky;11
+;;;;René J.V. Bertin;3;Michael Buesch;11
+;;;;Roland Harnau;3;Parker Coates;11
+;;;;Soenke Dibbern;3;Simon Edwards;11
+;;;;Stephen Leaf;3;Simon Perreault;11
+;;;;Tejas Dinkar;3;Stanislav Višňovský;11
+;;;;Viranch Mehta;3;Timo A. Hummel;11
+;;;;Vlad Codrea;3;Bill Egert;10
+;;;;Vladimir Prus;3;Carsten Duvenhorst;10
+;;;;Wolfgang Bauer;3;Carsten Niehaus;10
+;;;;Wolfgang Rohdewald;3;Claudiu Costin;10
+;;;;Yann Bodson;3;Guy Maurel;10
+;;;;Yichao Yu;3;Huynh Huu Long;10
+;;;;Yury G. Kudryashov;3;Ignat Semenov;10
+;;;;Alexander Rieder;2;Manuel Mommertz;10
+;;;;Alex Kern;2;Marcus Meissner;10
+;;;;Alfredo Beaumont Sainz;2;Nicolás Alvarez;10
+;;;;Anant Kamath;2;Philip Rodrigues;10
+;;;;Andreas K. Huettel (dilfridge);2;Rex Dieter;10
+;;;;Andreas Schwab;2;Stefan Brüns;10
+;;;;Andriy Rysin;2;Stefan Gehn;10
+;;;;Anthony Bryant;2;Steffen Hansen;10
+;;;;Arfrever Frehtes Taifersar Arahesis;2;T.C. Hollingsworth;10
+;;;;Arnold Kraschinski;2;Aaron Eisenberg;9
+;;;;belem;2;André Marcelo Alvarenga;9
+;;;;Ben Boeckel;2;Bo Thorsen;9
+;;;;Benjamin Long;2;Dan Vrátil;9
+;;;;Benjamin Markus Zeller;2;Eike Hein;9
+;;;;Bill Hoffman;2;Federico Cozzi;9
+;;;;Carlos Licea;2;Kevin Funk;9
+;;;;Christian Weilbach;2;Laszlo Papp;9
+;;;;Christopher E. Hyde;2;Laurent Larzillere;9
+;;;;Colin Guthrie;2;Marcell Lengyel;9
+;;;;Cristian Tibirna;2;Marcel Partap;9
+;;;;Daniel Gollub;2;Martin Gräßlin;9
+;;;;David E. Narváez;2;Pedro Suárez Casal;9
+;;;;David Palacio;2;Carlos Olmedo Escobar;8
+;;;;Dirk Müller;2;Craig Duquette;8
+;;;;Dirk Stoecker;2;David Johnson;8
+;;;;Eckhart Wörner;2;Don Sanders;8
+;;;;Elvis Stansvik;2;Enrico Ros;8
+;;;;Enrico Ros;2;Funda Wang;8
+;;;;Etienne Rebetez;2;Gerold J. Wucherpfennig;8
+;;;;Fela Winkelmolen;2;Harsh Chouraria J;8
+;;;;Felix Geyer;2;Holger Danielsson;8
+;;;;Feng Chao;2;Ivan Petrouchtchak;8
+;;;;Frank Scheffold;2;Ivo Anjo;8
+;;;;Fred Emmott;2;Jan-Pascal van Best;8
+;;;;Frédéric Sheedy;2;Jeff Snyder;8
+;;;;Gavin Beatty;2;Jonathan Singer;8
+;;;;Gregory Oestreicher;2;Josef Weidendorfer;8
+;;;;Guillaume Pothier;2;Juraj Bednar;8
+;;;;Hrvoje Senjan;2;Klas Kalass;8
+;;;;Ilie Halip;2;Loic Marteau;8
+;;;;Ivan Miraglia;2;Mashrab Kuvatov;8
+;;;;Jack Ostroff;2;Mike Arthur;8
+;;;;Jan Grulich;2;Nikita Churaev;8
+;;;;Jessica Hall;2;Percy Leonhardt;8
+;;;;Jing-Jong Shyue;2;Peter Oberndorfer;8
+;;;;Johannes Simon;2;Rafał Rzepecki;8
+;;;;Jon Ander Peñalba;2;Raymond Wooninck;8
+;;;;Jon de Andres Frias;2;Roman Maurer;8
+;;;;Jon Severinsson;2;Sergio Martins;8
+;;;;Joris Guisson;2;Stephan Johach;8
+;;;;Jose Nuno Coelho Pires;2;Toshitaka Fujioka;8
+;;;;Kai Dombrowe;2;Vincenzo Di Massa;8
+;;;;Kashyap Ramesh Puranik;2;Weng Xuetian;8
+;;;;Leandro Emanuel López;2;Will Entriken;8
+;;;;Marco Gulino;2;Woohyun JANG;8
+;;;;Marcus Camen;2;Alexander Potashev;7
+;;;;Mark Kretschmann;2;Andreas Simon;7
+;;;;Martin Pley;2;Andre Moreira Magalhaes;7
+;;;;Martin Sandsmark;2;Artem Serebriyskiy;7
+;;;;Martin Tobias Holmedahl Sandsmark;2;Bertjan Broeksema;7
+;;;;Mathieu Ducharme;2;Brian David Pritchett;7
+;;;;Médéric Boquien;2;Chris Lee;7
+;;;;Melchior Franz;2;Christian Loose;7
+;;;;Michael Palimaka;2;Christopher Molnar;7
+;;;;Michael Zanetti;2;Christoph Pfister;7
+;;;;Mickael Marchand;2;David Stephen Hubner;7
+;;;;Modestas Vainius;2;Denis Perchine;7
+;;;;Niels Slot;2;Dimitrios Glentadakis;7
+;;;;Olivier Trichet;2;Eray Ozkural;7
+;;;;Ömer Fadıl USTA;2;Eugene Zelenko;7
+;;;;Otto Bruggeman;2;Ferdinand Gassauer;7
+;;;;Ozan Çağlayan;2;Flavio Castelli;7
+;;;;Panagiotis Papadopoulos;2;Francois-Xavier Duranceau;7
+;;;;Philip Rodrigues;2;Gaute Hvoslef Kvalnes;7
+;;;;Pierre-Marie Pédrot;2;Gökcen Eraslan;7
+;;;;Ralf Jung;2;Ingomar Wesp;7
+;;;;Reinhold Kainhofer;2;Jekyll Wu;7
+;;;;Reza Shah;2;Jessica Hall;7
+;;;;Richard Hawthorne;2;Jochen Kuepper;7
+;;;;Richard Moe Gustavsen;2;Johann Ollivier Lapeyre;7
+;;;;Robby Stephenson;2;Jost Schenck;7
+;;;;Robertson Bayer;2;Julian Rockey;7
+;;;;Ryan James Rix;2;Jure Repinc;7
+;;;;Serdar Soytetir;2;Karl Ove Hufthammer;7
+;;;;Shinjo Park;2;Kristof Bal;7
+;;;;Siyuan Cao;2;Martin Konold;7
+;;;;Stanislas Marquis;2;Mathias Soeken;7
+;;;;Stephan Johach;2;Michael Bedy;7
+;;;;Stephen Killing;2;Mike McBride;7
+;;;;Szókovács Róbert;2;Paul Temple;7
+;;;;Timo A. Hummel;2;Rahman Duran;7
+;;;;Tirtha Chatterjee;2;Sven Lüppken;7
+;;;;Vitor Boschi da Silva;2;Thorsten Roeder;7
+;;;;Vit Pelcak;2;Uwe Thiem;7
+;;;;Vladimir Kuznetsov;2;Willy De la Court;7
+;;;;William Viana Soares;2;Achim Bohnet;6
+;;;;Yue Liu;2;Allan Sandfeld;6
+;;;;Yuen Hoe Lim;2;Antoni Bella Pérez;6
+;;;;Abhishek Patil;1;Charles Connell;6
+;;;;Aditya Jitesh Bhatt;1;czezatke;6
+;;;;Adrian Schroeter;1;Daniel Nicoletti;6
+;;;;Alain Boyer;1;Diego Pettenò;6
+;;;;Alan Alpert;1;Dominik Seichter;6
+;;;;Alan Jones;1;Evgeniy Ivanov;6
+;;;;Alberto Jiménez Ruiz;1;Fabian Wolf;6
+;;;;Alberto Sánchez Molero;1;Georg Robbers;6
+;;;;Alberto Villa;1;Guillermo Antonio Amaral Bastidas;6
+;;;;Alessandro Praduroux;1;Hans Meine;6
+;;;;Alex Richardson;1;Jesse Lee Zamora;6
+;;;;Amanpreet Singh Alam;1;Jochen Wilhelmy;6
+;;;;Ana Cecília Martins;1;Jonathan Michael Thomas;6
+;;;;Andreas Demmer;1;Jose Nuno Coelho Pires;6
+;;;;Andreas Nicolai;1;Juergen Pfennig;6
+;;;;Andrei Amuraritei;1;Karl-Heinz Zimmer;6
+;;;;Andre Marcelo Alvarenga;1;Leo Franchi;6
+;;;;Anthony Vital;1;Lisiane Sztoltz Teixeira;6
+;;;;Antonio Larrosa;1;Lukas Appelhans;6
+;;;;Antonio Larrosa Jimenez;1;Mark Gaiser;6
+;;;;Antonio Rojas;1;Michał Dutkiewicz;6
+;;;;Ariya Hidayat;1;Paolo Capriotti;6
+;;;;Arjen Hiemstra;1;Piotr Szymanski;6
+;;;;Avgoustinos Kadis;1;Rob Kaper;6
+;;;;Axel Arnold;1;Rohan McGovern;6
+;;;;Bart Cerneels;1;Sascha Cunz;6
+;;;;Bart Coppens;1;Sergio Luis Martins;6
+;;;;Benjamin Port;1;Shawn Starr;6
+;;;;Björn Ricks;1;Simon Paul St James;6
+;;;;Bruno Farias;1;Simon Persson;6
+;;;;Caleb Tennis;1;Stefan Rompf;6
+;;;;Casian Andrei;1;Thanomsub Noppaburana;6
+;;;;Casper van Donderen;1;Thomas Braun;6
+;;;;Chirag Anand;1;Tomáš Trnka;6
+;;;;Chris Howells;1;Warwick Allison;6
+;;;;Christian Esken;1;Wouter Becq;6
+;;;;Christian Mollekopf;1;Alexey Chernov;5
+;;;;Christopher Martin;1;Andrea Diamantini;5
+;;;;Christophe Thommeret;1;Andrea Rizzi;5
+;;;;Christoph Schleifenbaum;1;Andreas Nicolai;5
+;;;;Cies Breijs;1;Andre Heinecke;5
+;;;;Daniele Galdi;1;Andre Woebbeking;5
+;;;;Daniel Winter;1;Ariya Hidayat;5
+;;;;Darin Adler;1;Arno Rehn;5
+;;;;David Edmundson;1;Brian Jones;5
+;;;;Diego Casella;1;Bruno Bigras;5
+;;;;Diego Pettenò;1;Cédric Borgese;5
+;;;;Eduardo Pereira Habkost;1;Christian Mueller;5
+;;;;Egon Willighagen;1;Christoph Neerfeld;5
+;;;;eli mackenzie;1;Dag Andersen;5
+;;;;Emmanuel Pescosta;1;Dirk Stoecker;5
+;;;;Erdal Ronahi;1;Eduard Vladislavovich Sukharev;5
+;;;;Esben Mose Hansen;1;Eloy Cuadra;5
+;;;;Evgeny Egorochkin;1;Enrique Matías Sánchez;5
+;;;;Frank Thieme;1;Frank Weng;5
+;;;;Fredy Yanardi;1;grana;5
+;;;;Gábor Lehel;1;Gregory Schlomoff;5
+;;;;Gaël de Chalendar;1;Gustavo P. Boiko;5
+;;;;Gerhard Gappmeier;1;Heiko Evermann;5
+;;;;Giorgos Tsiapaliokas;1;Heinrich Wendel;5
+;;;;Gregor T;1;Ian Monroe;5
+;;;;Guntupalli Karunakar;1;Jaroslav Řezník;5
+;;;;Harald Hvaal;1;Jing-Jong Shyue;5
+;;;;Hui Ni;1;Joseph Kerian;5
+;;;;Ian Ventura-Whiting;1;Lasse Liehu;5
+;;;;Ian Wadham;1;Manolo Valdes;5
+;;;;Ignaz Forster;1;Marcelino Villarino Aguiar;5
+;;;;Inge Wallin;1;Marek Laane;5
+;;;;James Pike;1;Markus Meik Slopianka;5
+;;;;Jammy Zhou;1;Mark Westcott;5
+;;;;Jan Schäfer;1;Michael Drueing;5
+;;;;Jaroslaw Staniek;1;Miroslav Flidr;5
+;;;;Javier Goday;1;Nicolas Ternisien;5
+;;;;Jeff Cooper;1;Nimrod Gutman;5
+;;;;Jeffery MacEachern;1;Oliver Bausinger;5
+;;;;Jens Herden;1;Pau Garcia i Quiles;5
+;;;;Jens-Michael Hoffmann;1;Pavel Heimlich;5
+;;;;Jesper Pedersen;1;Percy Camilo Triveño Aucahuasi;5
+;;;;Jesper Thomschütz;1;Peter Rockai;5
+;;;;Jonathan Thomas;1;Rafał Miłecki;5
+;;;;José Manuel Santamaría Lema;1;Rene Beutler;5
+;;;;José Millán Soto;1;Roberto Teixeira;5
+;;;;Joshua Levesque;1;Stas Verberkt;5
+;;;;Juan González Aguilera;1;Stefan Majewsky;5
+;;;;Jun-Kyu Park;1;Sven Brauch;5
+;;;;Kåre Särs;1;Teemu Rytilahti;5
+;;;;Keith Neuse;1;Tommi Tervo;5
+;;;;Kelvie Wong;1;Unai Garro;5
+;;;;Kenneth Wimer;1;Volker Augustin;5
+;;;;Konstantin Heil;1;Yukiko Bando;5
+;;;;Kunal Deo;1;Aaron Reichman;4
+;;;;Louai Al-Khanji;1;Adrian Page;4
+;;;;Lucas Murray;1;Alex Neundorf;4
+;;;;Lukas Kropatschek;1;Ananta Palani;4
+;;;;Maksim Orlovich;1;Andreas Zehender;4
+;;;;Manuel Nickschas;1;Andriy Rysin;4
+;;;;Mario Fux;1;Arthur Renato Mello;4
+;;;;Mark A. Taff;1;Barış Metin;4
+;;;;Marko Käning;1;Bastian Holst;4
+;;;;Matěj Laitl;1;Bill Hoffman;4
+;;;;Matías Costa;1;Daniele E. Domenichelli;4
+;;;;Maurice Kalinowski;1;Daniel Pilone;4
+;;;;Maurizio Monge;1;Dennis Nienhüser;4
+;;;;Max Blazejak;1;Frank Baumgart;4
+;;;;Max Brazhnikov;1;Frikkie Thirion;4
+;;;;Mehmet Ali Akmanalp;1;George Goldberg;4
+;;;;Mike Evans;1;Gilles Chauvin;4
+;;;;Mohammad Ebrahim Mohammadi Panah;1;Grégory Oestreicher;4
+;;;;Mohammad Mehdi Salem Naraghi;1;Gunnar Schmidt;4
+;;;;Niels van Mourik;1;Henrique Pinto;4
+;;;;Ni Hui;1;Jason Keirstead;4
+;;;;Nikolas Zimmermann;1;Jiří Pinkava;4
+;;;;Ömer Fadıl Usta;1;John Birch;4
+;;;;Park Shinjo;1;John Dailey;4
+;;;;Paul Manners;1;KIM KyungHeon;4
+;;;;Pedro Lopez-Cabanillas;1;Klaus Niederkrüger;4
+;;;;Per Winkvist;1;Konstantinos Smanis;4
+;;;;Peter Grasch;1;Leonardo Finetti;4
+;;;;Peter Hedlund;1;Martin Aumüller;4
+;;;;Peter Pan;1;Martin Pley;4
+;;;;Peter Simonsson;1;Matt Newell;4
+;;;;Philip Falkner;1;Michael Olbrich;4
+;;;;Philippe Fremy;1;Misty Stanley-Jones;4
+;;;;Philipp Schmidt;1;Nico Kruber;4
+;;;;Pierre Ducroquet;1;Nikhil Marathe;4
+;;;;Primoz Anzur;1;Nikita V. Youshchenko;4
+;;;;Radek Novacek;1;Petter Stokke;4
+;;;;Raphael Langerhorst;1;Pierre Rossi;4
+;;;;René Bertin;1;Rainer Endres;4
+;;;;Robert Gruber;1;Roberto Alsina;4
+;;;;Robert Mathias Marmorstein;1;Robert Zwerus;4
+;;;;ruberg;1;Rodrigo Belem;4
+;;;;Sam Bishop;1;Sean Harmer;4
+;;;;Sam Lade;1;Sebastià Pla;4
+;;;;Sascha Cunz;1;Seb Ruiz;4
+;;;;Scarlett Clark;1;Simeon Bird;4
+;;;;Sebastian Doerner;1;Sune Vuorela;4
+;;;;Sebastien Martel;1;Sven Leiber;4
+;;;;Sebastien Renard;1;Tanner Lovelace;4
+;;;;Shantanu Tushar;1;Thorsten Zachmann;4
+;;;;Simon Bachmann;1;Tim Hutt;4
+;;;;Simon Huerlimann;1;Toivo Pedaste;4
+;;;;Simon Perreault;1;Troy Unrau;4
+;;;;Sinny Kumari;1;Victor Dodon;4
+;;;;Sjors Gielen;1;Wang Jian;4
+;;;;Stefan Monov;1;Xavier Vello;4
+;;;;Sven Langkamp;1;Yves Arrouye;4
+;;;;Than Ngo;1;Aaron Charles Reichman;3
+;;;;Thomas Fischer;1;Alexander Mezin;3
+;;;;Thomas Moenicke;1;A. Lynn Spehr;3
+;;;;Thomas Nagy;1;Amilcar do Carmo Lucas;3
+;;;;Thomas Richard;1;Andreas Aardal Hanssen;3
+;;;;Thomas Schildknecht;1;Anselmo Melo;3
+;;;;Thorsten Roeder;1;Björn Ruberg;3
+;;;;Tobias G. Pfeiffer;1;Brad King;3
+;;;;Tom Patzig;1;Bruno Virlet;3
+;;;;Trever Fischer;1;Chih-Wei Huang;3
+;;;;Tuomas Suutari;1;Christian Schaarschmidt;3
+;;;;Unai Garro;1;Daniel Calviño Sánchez;3
+;;;;Yew Ming Chen;1;Dashamir Hoxha;3
+;;;;Yoann Laissus;1;David Hyatt;3
+;;;;Total;42117;David Leimbach;3
+;;;;;;Dirk Rathlev;3
+;;;;;;Emil Sedgh;3
+;;;;;;Gabriel Anderson;3
+;;;;;;Giovanni Venturi;3
+;;;;;;Grzegorz Jaskiewicz;3
+;;;;;;Guenter Schwann;3
+;;;;;;Håvard Wall;3
+;;;;;;Heiko Becker;3
+;;;;;;Hoàng Đức Hiếu;3
+;;;;;;hoss;3
+;;;;;;Igor Janssen;3
+;;;;;;Isaac Clerencia;3
+;;;;;;Ivan Schreter;3
+;;;;;;James Ots;3
+;;;;;;Jason vanRijn Kasper;3
+;;;;;;Joseph Burns;3
+;;;;;;Juan Luis Baptiste;3
+;;;;;;Lamarque Vieira Souza;3
+;;;;;;Laurence Withers;3
+;;;;;;Lionel Petit;3
+;;;;;;Loïc Corbasson;3
+;;;;;;Marcos David Dione;3
+;;;;;;Marcus Hufgard;3
+;;;;;;Martin Blumenstingl;3
+;;;;;;Matthew John Dawson;3
+;;;;;;Matthias Grimrath;3
+;;;;;;Mauricio Piacentini;3
+;;;;;;Michael Jarrett;3
+;;;;;;Mike Pilone;3
+;;;;;;Nicolas Roffet;3
+;;;;;;nielx nielx;3
+;;;;;;Olaf Schmidt-Wischhöfer;3
+;;;;;;Peter Hedlund;3
+;;;;;;Ramon Zarazua;3
+;;;;;;René J.V. Bertin;3
+;;;;;;Robert Gogolok;3
+;;;;;;Roland Harnau;3
+;;;;;;Scott Manson;3
+;;;;;;Shane Wright;3
+;;;;;;Simone Gotti;3
+;;;;;;Soenke Dibbern;3
+;;;;;;Stefan Kebekus;3
+;;;;;;Stephen Leaf;3
+;;;;;;Tejas Dinkar;3
+;;;;;;Thomas Capricelli;3
+;;;;;;Viranch Mehta;3
+;;;;;;Vlad Codrea;3
+;;;;;;Vladimir Prus;3
+;;;;;;Wolfgang Bauer;3
+;;;;;;Wolfgang Rohdewald;3
+;;;;;;Yann Bodson;3
+;;;;;;Yichao Yu;3
+;;;;;;Yury G. Kudryashov;3
+;;;;;;Alejandro Exojo;2
+;;;;;;Alexander Rieder;2
+;;;;;;Alfredo Beaumont Sainz;2
+;;;;;;Anant Kamath;2
+;;;;;;Andreas K. Huettel (dilfridge);2
+;;;;;;Andreas Schwab;2
+;;;;;;Andrey S. Cherepanov;2
+;;;;;;Anthony Bryant;2
+;;;;;;Arfrever Frehtes Taifersar Arahesis;2
+;;;;;;Arnold Kraschinski;2
+;;;;;;belem;2
+;;;;;;Ben Boeckel;2
+;;;;;;Ben Burton;2
+;;;;;;Benjamin Long;2
+;;;;;;Benjamin Markus Zeller;2
+;;;;;;Ben Lamb;2
+;;;;;;Bertrand leconte;2
+;;;;;;Boris Wesslowski;2
+;;;;;;Carlos Licea;2
+;;;;;;charbonnier;2
+;;;;;;Christian Weilbach;2
+;;;;;;Christophe Prud'homme;2
+;;;;;;Christopher E. Hyde;2
+;;;;;;Colin Guthrie;2
+;;;;;;Daniel Gollub;2
+;;;;;;Daniel Stone;2
+;;;;;;Dave Rowe;2
+;;;;;;David E. Narváez;2
+;;;;;;David Palacio;2
+;;;;;;David Sansome;2
+;;;;;;Dirk Foersterling;2
+;;;;;;Dirk Müller;2
+;;;;;;Eckhart Wörner;2
+;;;;;;Elvis Stansvik;2
+;;;;;;Etienne Rebetez;2
+;;;;;;Fela Winkelmolen;2
+;;;;;;Felix Geyer;2
+;;;;;;Feng Chao;2
+;;;;;;Frank Scheffold;2
+;;;;;;Fred Emmott;2
+;;;;;;Frédéric Sheedy;2
+;;;;;;Gábor Lehel;2
+;;;;;;Gavin Beatty;2
+;;;;;;Gav Wood;2
+;;;;;;Gorkem Cetin;2
+;;;;;;Gregory Oestreicher;2
+;;;;;;Guillaume Pothier;2
+;;;;;;Heiko Schaefer;2
+;;;;;;Henrik Johnson;2
+;;;;;;Hrvoje Senjan;2
+;;;;;;Ilie Halip;2
+;;;;;;Ivan Miraglia;2
+;;;;;;Jack Ostroff;2
+;;;;;;Jakob Schröter;2
+;;;;;;Jan Grulich;2
+;;;;;;Jaromir Dolecek;2
+;;;;;;Jens Hoefkens;2
+;;;;;;Johannes Simon;2
+;;;;;;Jon Ander Peñalba;2
+;;;;;;Jon de Andres Frias;2
+;;;;;;Jon Severinsson;2
+;;;;;;Joris Guisson;2
+;;;;;;Julien Antille;2
+;;;;;;Kai Dombrowe;2
+;;;;;;Kari Lavikka;2
+;;;;;;Kashyap Ramesh Puranik;2
+;;;;;;Kevin Lo;2
+;;;;;;Leandro Emanuel López;2
+;;;;;;Marco Gulino;2
+;;;;;;Mark Kretschmann;2
+;;;;;;Markus Wuebben;2
+;;;;;;Martin Sandsmark;2
+;;;;;;Martin Tobias Holmedahl Sandsmark;2
+;;;;;;Mathieu Ducharme;2
+;;;;;;Max Howell;2
+;;;;;;Médéric Boquien;2
+;;;;;;Michael Driscoll;2
+;;;;;;Michael Palimaka;2
+;;;;;;Michael Zanetti;2
+;;;;;;Michel Goraczko;2
+;;;;;;Modestas Vainius;2
+;;;;;;Morten Hustveit;2
+;;;;;;Nick Betcher;2
+;;;;;;Niels Slot;2
+;;;;;;Olivier Trichet;2
+;;;;;;Ömer Fadıl USTA;2
+;;;;;;Ozan Çağlayan;2
+;;;;;;Panagiotis Papadopoulos;2
+;;;;;;Peter Simonsson;2
+;;;;;;Pierre-Marie Pédrot;2
+;;;;;;Pierre Stirnweiss;2
+;;;;;;Rainer Wirtz;2
+;;;;;;Ralf Jung;2
+;;;;;;Raphael Langerhorst;2
+;;;;;;Reza Shah;2
+;;;;;;Richard Hawthorne;2
+;;;;;;Richard Moe Gustavsen;2
+;;;;;;Robby Stephenson;2
+;;;;;;Robertson Bayer;2
+;;;;;;Russell Miller;2
+;;;;;;Ryan James Rix;2
+;;;;;;Ryan Nickell;2
+;;;;;;Sam Maloney;2
+;;;;;;Sander Koning;2
+;;;;;;Serdar Soytetir;2
+;;;;;;Shinjo Park;2
+;;;;;;Simon MacMullen;2
+;;;;;;Siyuan Cao;2
+;;;;;;Stanislas Marquis;2
+;;;;;;Stanislav Karchebny;2
+;;;;;;Stephen Killing;2
+;;;;;;Sven Langkamp;2
+;;;;;;Szókovács Róbert;2
+;;;;;;Than Ngo;2
+;;;;;;Tirtha Chatterjee;2
+;;;;;;Tobias Burnus;2
+;;;;;;Vinay Khaitan;2
+;;;;;;Vitor Boschi da Silva;2
+;;;;;;Vit Pelcak;2
+;;;;;;Vladimir Kuznetsov;2
+;;;;;;Will Andrews;2
+;;;;;;William Viana Soares;2
+;;;;;;Yue Liu;2
+;;;;;;Yuen Hoe Lim;2
+;;;;;;Zsolt Rizsanyi;2
+;;;;;;Abhishek Patil;1
+;;;;;;Adam Pigg;1
+;;;;;;Aditya Jitesh Bhatt;1
+;;;;;;Alain Boyer;1
+;;;;;;Alan Alpert;1
+;;;;;;Alan Eldridge;1
+;;;;;;Alan Jones;1
+;;;;;;Alberto Jiménez Ruiz;1
+;;;;;;Alberto Sánchez Molero;1
+;;;;;;Alberto Villa;1
+;;;;;;Alex Richardson;1
+;;;;;;Amanpreet Singh Alam;1
+;;;;;;Ana Cecília Martins;1
+;;;;;;Anders Widell;1
+;;;;;;Andreas Demmer;1
+;;;;;;Andreas Gungl;1
+;;;;;;Andreas Schnaiter;1
+;;;;;;Andrei Amuraritei;1
+;;;;;;Andre Marcelo Alvarenga;1
+;;;;;;Andrew Chant;1
+;;;;;;Anthony Vital;1
+;;;;;;Antoni Bella;1
+;;;;;;Antonio Larrosa;1
+;;;;;;Antonio Rojas;1
+;;;;;;Arjen Hiemstra;1
+;;;;;;Avgoustinos Kadis;1
+;;;;;;Axel Arnold;1
+;;;;;;Barry O'Donovan;1
+;;;;;;Bart Cerneels;1
+;;;;;;Bart Coppens;1
+;;;;;;Bart Verwilst;1
+;;;;;;Benjamin Port;1
+;;;;;;Bill Nagel;1
+;;;;;;Bjooern Kahl;1
+;;;;;;Björn Ricks;1
+;;;;;;Børre Gaup;1
+;;;;;;Brian Ledbetter;1
+;;;;;;Bruno Farias;1
+;;;;;;Carsten Wolff;1
+;;;;;;Casian Andrei;1
+;;;;;;Casper van Donderen;1
+;;;;;;Cédric Pasteur;1
+;;;;;;Chirag Anand;1
+;;;;;;Christian Mollekopf;1
+;;;;;;Christopher Martin;1
+;;;;;;Christophe Thommeret;1
+;;;;;;Christoph Schleifenbaum;1
+;;;;;;Cies Breijs;1
+;;;;;;Daniele Galdi;1
+;;;;;;Daniel Winter;1
+;;;;;;Darian Lanx;1
+;;;;;;Darin Adler;1
+;;;;;;Dario Massarin;1
+;;;;;;David Edmundson;1
+;;;;;;Diego Casella;1
+;;;;;;dirktest;1
+;;;;;;Duncan Haldane;1
+;;;;;;Eduardo Pereira Habkost;1
+;;;;;;Egon Willighagen;1
+;;;;;;eli mackenzie;1
+;;;;;;Elvis Pfuetzenreuter;1
+;;;;;;Emmanuel Pescosta;1
+;;;;;;Engin Aydogan;1
+;;;;;;Erdal Ronahi;1
+;;;;;;Esben Mose Hansen;1
+;;;;;;Eva Brucherseifer;1
+;;;;;;Evan Teran;1
+;;;;;;Evgeny Egorochkin;1
+;;;;;;Ewald Arnold;1
+;;;;;;Fabio Pedretti;1
+;;;;;;Felix Berger;1
+;;;;;;Frank Thieme;1
+;;;;;;Fredrik Edemar;1
+;;;;;;Fredy Yanardi;1
+;;;;;;Gaël de Chalendar;1
+;;;;;;Gerhard Gappmeier;1
+;;;;;;Giorgos Tsiapaliokas;1
+;;;;;;Gregor T;1
+;;;;;;Gregor Zumstein;1
+;;;;;;Guntupalli Karunakar;1
+;;;;;;Harald Hvaal;1
+;;;;;;Hendrik vom Lehn;1
+;;;;;;Hugh Warrington;1
+;;;;;;Hui Ni;1
+;;;;;;Ian Ventura-Whiting;1
+;;;;;;Ian Wadham;1
+;;;;;;Ignaz Forster;1
+;;;;;;Inge Wallin;1
+;;;;;;Jacek Stolarczyk;1
+;;;;;;James Pike;1
+;;;;;;Jammy Zhou;1
+;;;;;;Jaroslaw Staniek;1
+;;;;;;Jasem Mutlaq;1
+;;;;;;Jason Katz-Brown;1
+;;;;;;Javier Goday;1
+;;;;;;Jeff Cooper;1
+;;;;;;Jeffery MacEachern;1
+;;;;;;Jens-Michael Hoffmann;1
+;;;;;;Jesper Thomschütz;1
+;;;;;;Jonathan Thomas;1
+;;;;;;José Manuel Santamaría Lema;1
+;;;;;;José Millán Soto;1
+;;;;;;Joshua Levesque;1
+;;;;;;Juan González Aguilera;1
+;;;;;;Jun-Kyu Park;1
+;;;;;;Kåre Särs;1
+;;;;;;Keith Neuse;1
+;;;;;;Kelvie Wong;1
+;;;;;;Kim Enkovaara;1
+;;;;;;Konstantin Heil;1
+;;;;;;Kunal Deo;1
+;;;;;;Lars Kneschke;1
+;;;;;;Lee Wee Tiong;1
+;;;;;;Linus McCabe;1
+;;;;;;Lothar Braun;1
+;;;;;;Louai Al-Khanji;1
+;;;;;;Lucas Fisher;1
+;;;;;;Lucas Murray;1
+;;;;;;Lukas Kropatschek;1
+;;;;;;Maksim Orlovich;1
+;;;;;;Manuel Nickschas;1
+;;;;;;Marco Pinelli;1
+;;;;;;Marco Wegner;1
+;;;;;;Mario Fux;1
+;;;;;;Mario Teijeiro Otero;1
+;;;;;;Marius Bugge Monsen;1
+;;;;;;Mark A. Taff;1
+;;;;;;Mark Deneen;1
+;;;;;;Marko Käning;1
+;;;;;;Marko Rosic;1
+;;;;;;Martin Ellis;1
+;;;;;;Martin Köbele;1
+;;;;;;Martin Piskernig;1
+;;;;;;Matěj Laitl;1
+;;;;;;Matías Costa;1
+;;;;;;Matthieu Robin;1
+;;;;;;Maurice Kalinowski;1
+;;;;;;Maurizio Monge;1
+;;;;;;Max Blazejak;1
+;;;;;;Max Brazhnikov;1
+;;;;;;Mehmet Ali Akmanalp;1
+;;;;;;Mike Evans;1
+;;;;;;Mohammad Ebrahim Mohammadi Panah;1
+;;;;;;Mohammad Mehdi Salem Naraghi;1
+;;;;;;Moritz Moeller-Herrmann;1
+;;;;;;Nicolas Deschildre;1
+;;;;;;Niels van Mourik;1
+;;;;;;Ni Hui;1
+;;;;;;olet;1
+;;;;;;Ömer Fadıl Usta;1
+;;;;;;Orville Bennett;1
+;;;;;;Pam Roberts;1
+;;;;;;Park Shinjo;1
+;;;;;;Paul Manners;1
+;;;;;;Paul Sprakes;1
+;;;;;;Pedro Lopez-Cabanillas;1
+;;;;;;Peter Grasch;1
+;;;;;;Peter Pan;1
+;;;;;;Philip Falkner;1
+;;;;;;Philippe Fremy;1
+;;;;;;Philipp Schmidt;1
+;;;;;;Pierre Ducroquet;1
+;;;;;;Pietro Iglio;1
+;;;;;;Radek Novacek;1
+;;;;;;Ralf Hoelzer;1
+;;;;;;René Bertin;1
+;;;;;;Rinse de Vries;1
+;;;;;;Robert Gruber;1
+;;;;;;Robert Mathias Marmorstein;1
+;;;;;;ruberg;1
+;;;;;;Sam Bishop;1
+;;;;;;Sam Lade;1
+;;;;;;Sashmit Bhaduri;1
+;;;;;;Scarlett Clark;1
+;;;;;;Sebastian Doerner;1
+;;;;;;Sebastien Martel;1
+;;;;;;Sebastien Renard;1
+;;;;;;Shantanu Tushar;1
+;;;;;;Simon Bachmann;1
+;;;;;;Sinny Kumari;1
+;;;;;;Sjors Gielen;1
+;;;;;;Spiros Georgaras;1
+;;;;;;Stefan Monov;1
+;;;;;;Stefan van den Oord;1
+;;;;;;Taiki Komoda;1
+;;;;;;Thomas Fischer;1
+;;;;;;Thomas Moenicke;1
+;;;;;;Thomas Richard;1
+;;;;;;Thomas Schildknecht;1
+;;;;;;Thorben Kröger;1
+;;;;;;Thorsten Westheider;1
+;;;;;;Till Gerken;1
+;;;;;;Tobias G. Pfeiffer;1
+;;;;;;Tomislav Lukman;1
+;;;;;;Tom Patzig;1
+;;;;;;Trever Fischer;1
+;;;;;;Trevor Harmon;1
+;;;;;;Tuomas Suutari;1
+;;;;;;Ulrich Kuettler;1
+;;;;;;Víctor Romero;1
+;;;;;;Wilfried Huss;1
+;;;;;;Yew Ming Chen;1
+;;;;;;Yoann Laissus;1
+;;;;;;Total;102046

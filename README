@@ -1,0 +1,120 @@
+This file presents quickly the description of spreadsheets shared on this page.
+These spreadsheets are related to paper named "Characterizing architectural commits: An exploratory study about the KDELibs project".
+Up to date, this paper is under consideration for publication on the Journal of Software Engineering Research and Development.
+Bellow, we describe each column of each spreadsheet contained in this page.
+
+Files of study package: 
+
+1. judgeKeywordsByExperts.csv
+This spreadsheet contains judgment for each keyword by experts.
+Column A: Keyword
+Column B: Judge A
+Column B: Judge B
+Column B: Judge C
+Column B: Judge D
+Column B: Judge E
+
+2. keywordsChoseByExpertsAndStudents.csv
+This spreadsheet contains the information summary of the set of keywords.
+Column A: Keyword
+Column B: Amount of votes of experts for keyword
+Column C: Amount discard of experts for keyword
+Column D: Amount of votes of students for keyword
+Column E: Amount discard of students for keyword
+
+3. architecturalCommitMessagesDetailed.csv
+This spreadsheet contains the data of accepted commit as containing architectural information.
+Column A: Key
+Column B: Author
+Column C: Date
+Column D: Commit message
+Column E: Size of commit message
+Column F: Keyword(s) found
+Column G: Number of keywords founds
+Column H: Architectural Topic
+Column I: Time since the start of project (in months)
+Column J: Previous commit key
+Column K: Commit message without stopwords
+Column L: Size of commit message without stopwords
+Column M: Amount of files changed in commit
+Column N: Total lines affected in commit
+Column O: Inserted lines in commit
+Column P: Removed lines in commit
+
+4. architecturalCommitMessagesFiltered.csv
+This spreadsheet contains the data of filtered commit as containing keyword of set of architectural information.
+Column A: Key
+Column B: Author
+Column C: Date
+Column D: Commit message
+Column E: Size of commit message
+Column F: Time since the start of project (in months)
+Column G: Keyword(s) found
+Column H: Number of keywords founds
+
+5. nonArchitecturalCommitMessagesDetailed.csv
+This spreadsheet contains the data of commit without architectural information randomize chose.
+Column A: Key
+Column B: Author
+Column C: Date
+Column D: Commit message
+Column E: Size of commit message
+Column F: Time since the start of project (in months)
+Column G: Previous commit key
+Column H: Commit message without stopwords
+Column I: Size of commit message without stopwords
+
+6. amountAuthorsOfKDELibsProject.csv
+This spreadsheet contains the data of contributions of KDELibs project grouped by authors.
+Column A: Author of commit
+Column B: Amount of confirmed messages
+Column C: Author of commit
+Column D: Amount of detected messages
+Column E: Author of commit
+Column F: Amount of commits in the last ten years
+Column G: Author of commit
+Column H: Amount of commits in the project
+
+7. commitMessagesVersusKeywords.csv
+This spreadsheet contains the data of relationship between commit messages with architectural information and keywords contained them.
+Column A: Keywords
+Column B: Amount of commit detected by keyword
+Column C: Amount of confirmed commit detected by keyword
+
+8. releasesKDELibs.csv
+This spreadsheet contains the dates of launch new versions of KDELibs project.
+Column A: Name of version
+Column B: Months since start project
+
+9. commitMessagesGroupedByArchitecturalTopics.csv
+This spreadsheet contains the commit messages grouped by architectural topic related.
+Column A: Commit key of Architectural Topic I
+Column B: Months since start project
+Column C: Commit key of Architectural Topic II
+Column D: Months since start project
+Column E: Commit key of Architectural Topic III
+Column F: Months since start project
+Column G: Commit key of Architectural Topic IV
+Column H: Months since start project
+Column I: Commit key of Architectural Topic V
+Column J: Months since start project
+Column K: Commit key of Architectural Topic VI
+Column L: Months since start project
+Column M: Commit key of Architectural Topic VII
+Column N: Months since start project
+Column O: Commit key of Architectural Topic VIII
+Column P: Months since start project
+Column Q: Commit key of Architectural Topic IX
+Column R: Months since start project
+Column S: Commit key of Architectural Topic X
+Column T: Months since start project
+Column U: Commit key of Architectural Topic XI
+Column V: Months since start project
+Column X: Commit key of Architectural Topic XII
+Column Y: Months since start project
+Column W: Commit key of Architectural Topic XIII
+Column Z: Months since start project
+Column AA: Commit key of Architectural Topic XIV
+Column AB: Months since start project
+Column AC: Commit key of Architectural Topic XV
+Column AD: Months since start project

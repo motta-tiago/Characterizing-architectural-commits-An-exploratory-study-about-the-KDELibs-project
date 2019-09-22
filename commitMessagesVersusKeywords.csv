@@ -1,0 +1,33 @@
+Keyword;Amount of commit detected by keyword;Amount of confirmed commit detected by keyword
+adaptability;205;5
+architectural style;0;0
+architecture;9;4
+changeability;3;0
+client-server;0;0
+components;195;28
+connector;1;0
+constraints;72;4
+extends;277;5
+extensibility;156;8
+facade;0;0
+interface;467;35
+layering;96;5
+localizability;52;2
+low coupling;0;0
+maintainability;84;5
+modifiability;197;12
+modularity;7;1
+modularization;0;0
+module;442;33
+package;331;26
+pipe-and-filter;0;0
+portability;34;1
+provides;534;41
+publish-subscribe;0;0
+reliability;40;4
+requires;470;45
+scalability;352;0
+separation of concerns;1;0
+stability;15;1
+subcomponents;0;0
+testability;0;0

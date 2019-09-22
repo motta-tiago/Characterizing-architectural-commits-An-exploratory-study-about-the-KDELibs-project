@@ -1,0 +1,369 @@
+Keyword;Experts votes;Experts rejection;Students votes;Students rejection
+aadlboolean;0;5;0;9
+aadlinteger;0;5;0;9
+aadlreal;0;5;0;9
+aadlstring;1;4;0;9
+abstraction;2;3;7;2
+access;1;4;2;7
+access control;3;2;4;5
+accuracy;2;3;4;5
+action_declaration;0;5;2;7
+action_part;0;5;1;8
+activation latency;0;5;2;7
+active specification;0;5;2;7
+actual_parameter;0;5;1;8
+actual_parameter_list;0;5;1;8
+adaptability;4;1;7;2
+adequacy;1;4;5;4
+aesthetics;0;5;0;9
+all;0;5;0;9
+allocated-to;0;5;2;7
+allocation;0;5;4;5
+allowed-to-use;3;2;3;6
+analysis;0;5;4;5
+analyzability;3;2;2;7
+and;0;5;0;9
+annex;0;5;1;8
+application protocol interface;1;4;4;5
+applies;0;5;1;8
+architectural style;4;1;9;0
+architecture;5;0;7;2
+area;0;5;0;9
+assert;1;4;2;7
+attachments;2;3;1;8
+attractiveness;2;3;1;8
+authentication;2;3;5;4
+availability;2;3;7;2
+basic_pattern_list;0;5;1;8
+basic_function_pattern;2;3;1;8
+basic_pattern;0;5;0;9
+behavior;2;3;4;5
+binary_pattern;0;5;1;8
+bind;3;2;2;7
+binding;2;3;3;6
+boolean;0;5;1;8
+bus;1;4;3;6
+calls;3;2;5;4
+can access;2;3;2;7
+can not access;2;3;2;7
+capabilities;0;5;3;6
+capacity;2;3;2;7
+category;1;4;2;7
+changeability;4;1;5;4
+channel;1;4;3;6
+clarity;2;3;3;6
+classifier;1;4;2;7
+client-server;5;0;7;2
+co-existence;2;3;2;7
+code generation;0;5;3;6
+cohesiveness;3;2;5;4
+collection-members;0;5;3;6
+communication;0;5;1;8
+compatibility;3;2;7;2
+complete;0;5;2;7
+completely fulfilled customers;0;5;3;6
+completeness;2;3;4;5
+complexity;2;3;4;5
+compliance;0;5;2;7
+components;5;0;9;0
+component_generation;2;3;2;7
+composite;3;2;4;5
+compositionality;2;3;5;4
+conceptual;0;5;2;7
+conciseness;2;3;2;7
+conectors;0;5;2;7
+confidentiality;2;3;6;3
+configurability;3;2;7;2
+connections;3;2;8;1
+connectors;4;1;7;2
+consistency;0;5;2;7
+consistent;1;4;2;7
+constant;0;5;0;9
+constraints;5;0;8;1
+container-contents;1;4;3;6
+containment;1;4;1;8
+control_data;0;5;2;7
+control_group;0;5;1;8
+control_laws;0;5;1;8
+copy-migrates-to;0;5;1;8
+correctness;1;4;4;5
+cost;1;4;3;6
+coupling and cohesion;3;2;8;1
+customizability;3;2;6;3
+data;2;3;4;5
+deadline;0;5;0;9
+declarations;2;3;3;6
+declare;0;5;1;8
+decomposition;3;2;6;3
+define;0;5;1;8
+delta;1;4;0;9
+dependability;2;3;4;5
+depends on;2;3;5;4
+deployment view;2;3;5;4
+derive;1;4;1;8
+development time;0;5;4;5
+device;1;4;3;6
+documentation;0;5;3;6
+double;0;5;1;8
+drift;2;3;0;9
+dyn;0;5;0;9
+dyn component;0;5;0;9
+dyn instance;0;5;1;8
+dynamism;2;3;1;8
+early deployment;0;5;1;8
+ease of use;0;5;2;7
+efficiency;2;3;5;4
+efficiency compliance;2;3;2;7
+encapsulation;2;3;7;2
+end;0;5;0;9
+enforce;0;5;0;9
+enumeration;1;4;0;9
+error_data;0;5;2;7
+error_detection;0;5;2;7
+events;2;3;4;5
+event-driven;3;2;6;3
+evolution;2;3;2;7
+exchangeability;0;5;3;6
+execution-migrates-to;1;4;1;8
+export;0;5;3;6
+extendibility;3;2;5;4
+extends;4;1;7;2
+extensibility;4;1;6;3
+facade;4;1;7;2
+failure tolerance;2;3;7;2
+false;0;5;1;8
+fault tolerance;2;3;6;3
+feature;0;5;5;4
+feature set;0;5;5;4
+features;0;5;1;8
+flows;1;4;6;3
+flow path;1;4;4;5
+flow sink;2;3;1;8
+flow source;2;3;2;7
+forall;0;5;1;8
+formal_object_parameter_declaration;0;5;0;9
+formal_parameter_declaration;0;5;1;8
+formal_parameter_declaration_list;0;5;1;8
+formal_type_parameter_declaration;0;5;1;8
+framework;1;4;5;4
+frequency/severity of failure;0;5;3;6
+freshness;0;5;0;9
+function_type_expression;0;5;2;7
+functionality;1;4;6;3
+functionality compliance;0;5;3;6
+generality;0;5;2;7
+group;1;4;1;8
+guard;0;5;0;9
+heterogeneity;1;4;3;6
+high assurance;0;5;2;7
+hosts;1;4;0;9
+human factors;0;5;1;8
+identifier_list;0;5;0;9
+implementation;0;5;2;7
+import;0;5;5;4
+in;0;5;0;9
+in action;0;5;0;9
+include_modifier;0;5;1;8
+incrementality;0;5;3;6
+information hiding;2;3;5;4
+information_hiding_based;1;4;1;8
+inherit;1;4;3;6
+initial;0;5;0;9
+inst;0;5;0;9
+installability;3;2;4;5
+int;0;5;1;8
+integrity;2;3;5;4
+interdependency;0;5;2;7
+interface;4;1;8;1
+interface_action_part;0;5;2;7
+interface_declarative_item;0;5;2;7
+interface_declarative_region;0;5;3;6
+interface_derivation_declaration;0;5;3;6
+interface_provides_part;1;4;2;7
+interface_type_expression;0;5;2;7
+interoperability;2;3;7;2
+intersection;0;5;1;8
+inverse;0;5;0;9
+invocation;0;5;3;6
+inward;0;5;0;9
+is;0;5;0;9
+is part of;2;3;3;6
+iterator;3;2;5;4
+jitter;0;5;0;9
+latency;2;3;3;6
+laxity;0;5;0;9
+layering;5;0;7;2
+learnability;2;3;2;7
+list;0;5;0;9
+localizability;4;1;2;7
+low coupling;4;1;5;4
+maintain;0;5;1;8
+maintainability;4;1;8;1
+maintainability compliance;3;2;3;6
+maturity;2;3;4;5
+means time to failure;0;5;1;8
+member of;0;5;1;8
+memory;0;5;2;7
+microkernel;3;2;4;5
+migrates-to;0;5;2;7
+mode;0;5;2;7
+modifiability;4;1;8;1
+modifiable;0;5;2;7
+modularity;4;1;9;0
+modularization;4;1;8;1
+module;4;1;9;0
+multiple views;1;4;5;4
+name_declaration;0;5;0;9
+no module split;0;5;2;7
+nomadicity;0;5;2;7
+none;0;5;0;9
+not;0;5;0;9
+object_name_declaration;0;5;0;9
+obsolesced;0;5;1;8
+of;0;5;0;9
+only access;0;5;1;8
+operability;2;3;5;4
+operationality;2;3;3;6
+or;0;5;0;9
+out;0;5;0;9
+out action;0;5;0;9
+outward;0;5;0;9
+packages;4;1;8;1
+parameter;0;5;4;5
+path;0;5;3;6
+pattern;2;3;3;6
+peer;1;4;4;5
+performance;3;2;7;2
+performer_part;0;5;0;9
+period;0;5;1;8
+pipe-and-filter;5;0;6;3
+ports;3;2;5;4
+portability;4;1;8;1
+portability compliance;2;3;4;5
+portal;1;4;1;8
+ports;0;5;0;9
+power consumption;0;5;1;8
+precision;0;5;4;5
+predictability;0;5;2;7
+primitiveness;0;5;3;6
+private;0;5;4;5
+process;2;3;3;6
+processor;1;4;1;8
+productivity;0;5;4;5
+properties;0;5;6;3
+property;2;3;3;6
+provides;4;1;5;4
+provide bus access;2;3;1;8
+provides data access;2;3;2;7
+provides_part;0;5;2;7
+public;0;5;3;6
+publish-subscribe;4;1;6;3
+range;0;5;1;8
+rationale;1;4;3;6
+readability;2;3;4;5
+reasoning about alternatives;0;5;1;8
+recoverability;2;3;6;3
+reengineering;2;3;3;6
+reference;0;5;3;6
+refined;0;5;2;7
+refinement;2;3;3;6
+refines;2;3;3;6
+refines type;1;4;1;8
+relationship;3;2;7;2
+release time;0;5;1;8
+reliability;4;1;8;1
+reliability compliance;2;3;2;7
+replaceability;2;3;3;6
+replacement_list;0;5;0;9
+representation;2;3;2;7
+requires;4;1;7;2
+requirements;0;5;5;4
+requires bus access;2;3;3;6
+requires data access;2;3;2;7
+requires_part;0;5;2;7
+resolution;0;5;0;9
+resource consumption;2;3;4;5
+resource utilization;2;3;4;5
+responsability;0;5;4;5
+response time;2;3;4;5
+responsiveness;2;3;4;5
+reusability;3;2;7;2
+robustness;3;2;5;4
+roles;2;3;5;4
+runtime behavior;0;5;4;5
+scalability;4;1;7;2
+security;3;2;7;2
+security-by-construction;0;5;4;5
+semantics;0;5;0;9
+separation of concerns;4;1;7;2
+server;1;4;3;6
+service;3;2;6;3
+service_declaration;0;5;1;8
+set;1;4;2;7
+shared-data;1;4;6;3
+simplicity;2;3;4;5
+sink;2;3;1;8
+size;0;5;0;9
+source;2;3;1;8
+space;2;3;3;6
+spec;0;5;1;8
+speed efficiency;2;3;5;4
+stability;4;1;4;5
+start and end;0;5;0;9
+state_trasition_rule;1;4;1;8
+static_data;0;5;2;7
+string;0;5;1;8
+structural decomposition;3;2;5;4
+style;3;2;5;4
+subcomponents;4;1;8;1
+subprograms;2;3;8;1
+subscriptions;0;5;3;6
+subtype;2;3;1;8
+sufficency;0;5;2;7
+switch;0;5;1;8
+synchronization;0;5;1;8
+systems;2;3;6;3
+task allocation;1;4;0;9
+testability;4;1;6;3
+thread;2;3;3;6
+thread group;1;4;3;6
+throughput;2;3;3;6
+time behavior;2;3;3;6
+timeliness;2;3;3;6
+to;0;5;0;9
+tolerant delay;0;5;3;6
+total energy;0;5;0;9
+traceability;2;3;8;1
+traceable;0;5;2;7
+trasition_body;1;4;0;9
+trigger;0;5;1;8
+true;0;5;1;8
+type;3;2;6;3
+type_constructor_application;0;5;0;9
+type_constructor_declaration;0;5;0;9
+type_constructor_expression;0;5;0;9
+type_constructor_name_declaration;0;5;0;9
+type_declaration;0;5;2;7
+type_expression;0;5;0;9
+type_name_declaration;0;5;0;9
+types;0;5;3;6
+ubiquity;2;3;2;7
+unambiguous;0;5;4;5
+understandability;2;3;5;4
+union;0;5;1;8
+units;0;5;2;7
+unnecessary work;0;5;0;9
+usability;2;3;5;4
+usability compliance;2;3;4;5
+usable;0;5;0;9
+usefulness;0;5;2;7
+user-friendliness;1;4;4;5
+value;0;5;2;7
+variability;3;2;7;2
+verifiable;0;5;4;5
+view;1;4;6;3
+visibility;2;3;4;5
+volatility;2;3;3;6
+when;0;5;1;8
+whole-part;2;3;1;8
+with;0;5;0;9

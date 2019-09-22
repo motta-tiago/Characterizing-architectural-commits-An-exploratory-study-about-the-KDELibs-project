@@ -1,0 +1,369 @@
+Keyword;Judge A;Judge B;Judge C;Judge D;Judge E
+aadlboolean;0;0;0;0;0
+aadlinteger;0;0;0;0;0
+aadlreal;0;0;0;0;0
+aadlstring;0;1;0;0;0
+abstraction;0;0;1;0;1
+access;0;0;1;0;0
+access control;1;0;0;1;1
+accuracy;0;0;0;1;1
+action_declaration;0;0;0;0;0
+action_part;0;0;0;0;0
+activation latency;0;0;0;0;0
+active specification;0;0;0;0;0
+actual_parameter;0;0;0;0;0
+actual_parameter_list;0;0;0;0;0
+adaptability;0;1;1;1;1
+adequacy;0;0;0;1;0
+aesthetics;0;0;0;0;0
+all;0;0;0;0;0
+allocated-to;0;0;0;0;0
+allocation;0;0;0;0;0
+allowed-to-use;1;0;1;0;1
+analysis;0;0;0;0;0
+analyzability;0;1;0;1;1
+and;0;0;0;0;0
+annex;0;0;0;0;0
+application protocol interface;0;1;0;0;0
+applies;0;0;0;0;0
+architectural style;1;1;1;0;1
+architecture;1;1;1;1;1
+area;0;0;0;0;0
+assert;0;0;0;1;0
+attachments;0;0;0;1;1
+attractiveness;0;0;0;1;1
+authentication;0;0;0;1;1
+availability;0;0;0;1;1
+basic_pattern_list;0;0;0;0;0
+basic_function_pattern;0;1;0;1;0
+basic_pattern;0;0;0;0;0
+behavior;0;0;0;1;1
+binary_pattern;0;0;0;0;0
+bind;0;1;0;1;1
+binding;0;0;0;1;1
+boolean;0;0;0;0;0
+bus;0;0;0;1;0
+calls;0;0;1;1;1
+can access;0;0;1;0;1
+can not access;0;0;1;0;1
+capabilities;0;0;0;0;0
+capacity;0;0;0;1;1
+category;0;0;0;1;0
+changeability;0;1;1;1;1
+channel;0;0;0;0;1
+clarity;0;0;0;1;1
+classifier;0;0;0;1;0
+client-server;1;1;1;1;1
+co-existence;0;0;0;1;1
+code generation;0;0;0;0;0
+cohesiveness;0;1;0;1;1
+collection-members;0;0;0;0;0
+communication;0;0;0;0;0
+compatibility;0;1;0;1;1
+complete;0;0;0;0;0
+completely fulfilled customers;0;0;0;0;0
+completeness;0;0;0;1;1
+complexity;0;1;0;0;1
+compliance;0;0;0;0;0
+components;1;1;1;1;1
+component_generation;0;1;0;1;0
+composite;0;1;1;0;1
+compositionality;0;0;1;1;0
+conceptual;0;0;0;0;0
+conciseness;0;1;0;1;0
+conectors;0;0;0;0;0
+confidentiality;0;0;0;1;1
+configurability;0;1;0;1;1
+connections;0;1;0;1;1
+connector;0;1;1;1;1
+consistency;0;0;0;0;0
+consistent;0;0;0;1;0
+constant;0;0;0;0;0
+constraints;1;1;1;1;1
+container-contents;0;0;0;0;1
+containment;0;0;0;0;1
+control_data;0;0;0;0;0
+control_group;0;0;0;0;0
+control_laws;0;0;0;0;0
+copy-migrates-to;0;0;0;0;0
+correctness;0;0;0;1;0
+cost;0;0;0;1;0
+coupling and cohesion;0;1;1;0;1
+customizability;0;1;0;1;1
+data;0;0;0;1;1
+deadline;0;0;0;0;0
+declarations;0;1;0;1;0
+declare;0;0;0;0;0
+decomposition;0;1;1;0;1
+define;0;0;0;0;0
+delta;0;0;0;1;0
+dependability;0;1;0;0;1
+depends on;0;1;0;0;1
+deployment view;0;1;0;0;1
+derive;0;0;1;0;0
+development time;0;0;0;0;0
+device;0;0;0;1;0
+documentation;0;0;0;0;0
+double;0;0;0;0;0
+drift;0;1;1;0;0
+dyn;0;0;0;0;0
+dyn component;0;0;0;0;0
+dyn instance;0;0;0;0;0
+dynamism;0;0;0;1;1
+early deployment;0;0;0;0;0
+ease of use;0;0;0;0;0
+efficiency;0;0;0;1;1
+efficiency compliance;0;0;0;1;1
+encapsulation;0;0;1;0;1
+end;0;0;0;0;0
+enforce;0;0;0;0;0
+enumeration;0;0;0;1;0
+error_data;0;0;0;0;0
+error_detection;0;0;0;0;0
+event;0;0;0;1;1
+event-driven;1;0;0;1;1
+evolution;0;0;0;1;1
+exchangeability;0;0;0;0;0
+execution-migrates-to;0;0;0;0;1
+export;0;0;0;0;0
+extendibility;0;0;1;1;1
+extends;0;1;1;1;1
+extensibility;0;1;1;1;1
+facade;0;1;1;1;1
+failure tolerance;0;0;0;1;1
+false;0;0;0;0;0
+fault tolerance;0;0;0;1;1
+feature;0;0;0;0;0
+feature set;0;0;0;0;0
+features;0;0;0;0;0
+flows;0;0;0;1;0
+flow path;0;0;0;1;0
+flow sink;0;0;0;1;1
+flow source;0;0;0;1;1
+forall;0;0;0;0;0
+formal_object_parameter_declaration;0;0;0;0;0
+formal_parameter_declaration;0;0;0;0;0
+formal_parameter_declaration_list;0;0;0;0;0
+formal_type_parameter_declaration;0;0;0;0;0
+framework;0;0;0;0;1
+frequency/severity of failure;0;0;0;0;0
+freshness;0;0;0;0;0
+function_type_expression;0;0;0;0;0
+functionality;0;0;0;1;0
+functionality compliance;0;0;0;0;0
+generality;0;0;0;0;0
+group;0;0;0;1;0
+guard;0;0;0;0;0
+heterogeneity;0;0;0;1;0
+high assurance;0;0;0;0;0
+hosts;0;0;0;0;1
+human factors;0;0;0;0;0
+identifier_list;0;0;0;0;0
+implementation;0;0;0;0;0
+import;0;0;0;0;0
+in;0;0;0;0;0
+in action;0;0;0;0;0
+include_modifier;0;0;0;0;0
+incrementality;0;0;0;0;0
+information hiding;0;0;1;0;1
+information_hiding_based;0;0;0;0;1
+inherit;0;0;0;1;0
+initial;0;0;0;0;0
+inst;0;0;0;0;0
+installability;0;1;0;1;1
+int;0;0;0;0;0
+integrity;0;0;0;1;1
+interdependency;0;0;0;0;0
+interface;0;1;1;1;1
+interface_action_part;0;0;0;0;0
+interface_declarative_item;0;0;0;0;0
+interface_declarative_region;0;0;0;0;0
+interface_derivation_declaration;0;0;0;0;0
+interface_provides_part;0;0;0;0;1
+interface_type_expression;0;0;0;0;0
+interoperability;0;0;0;1;1
+intersection;0;0;0;0;0
+inverse;0;0;0;0;0
+invocation;0;0;0;0;0
+inward;0;0;0;0;0
+is;0;0;0;0;0
+is part of;0;1;0;0;1
+iterator;0;1;1;1;0
+jitter;0;0;0;0;0
+latency;0;0;0;1;1
+laxity;0;0;0;0;0
+layering;1;1;1;1;1
+learnability;0;0;0;1;1
+list;0;0;0;0;0
+localizability;1;1;0;1;1
+low coupling;0;1;1;1;1
+maintain;0;0;0;0;0
+maintainability;0;1;1;1;1
+maintainability compliance;0;1;0;1;1
+maturity;0;0;0;1;1
+means time to failure;0;0;0;0;0
+member of;0;0;0;0;0
+memory;0;0;0;0;0
+microkernel;1;0;0;1;1
+migrates-to;0;0;0;0;0
+mode;0;0;0;0;0
+modifiability;0;1;1;1;1
+modifiable;0;0;0;0;0
+modularity;0;1;1;1;1
+modularization;1;1;1;0;1
+module;1;1;1;0;1
+multiple views;0;0;0;0;1
+name_declaration;0;0;0;0;0
+no module split;0;0;0;0;0
+nomadicity;0;0;0;0;0
+none;0;0;0;0;0
+not;0;0;0;0;0
+object_name_declaration;0;0;0;0;0
+obsolesced;0;0;0;0;0
+of;0;0;0;0;0
+only access;0;0;0;0;0
+operability;0;0;0;1;1
+operationality;0;0;0;1;1
+or;0;0;0;0;0
+out;0;0;0;0;0
+out action;0;0;0;0;0
+outward;0;0;0;0;0
+package;0;1;1;1;1
+parameter;0;0;0;0;0
+path;0;0;0;0;0
+pattern;0;1;1;0;0
+peer;0;0;0;0;1
+performance;0;1;0;1;1
+performer_part;0;0;0;0;0
+period;0;0;0;0;0
+pipe-and-filter;1;1;1;1;1
+port;0;0;1;1;1
+portability;0;1;1;1;1
+portability compliance;0;0;0;1;1
+portal;0;0;0;1;0
+ports;0;0;0;0;0
+power consumption;0;0;0;0;0
+precision;0;0;0;0;0
+predictability;0;0;0;0;0
+primitiveness;0;0;0;0;0
+private;0;0;0;0;0
+process;0;0;0;1;1
+processor;0;0;0;1;0
+productivity;0;0;0;0;0
+property;0;0;0;0;0
+properties;0;0;0;1;1
+provides;0;1;1;1;1
+provide bus access;0;0;0;1;1
+provides data access;0;0;0;1;1
+provides_part;0;0;0;0;0
+public;0;0;0;0;0
+publish-subscribe;1;1;1;0;1
+range;0;0;0;0;0
+rationale;0;0;0;0;1
+readability;0;0;0;1;1
+reasoning about alternatives;0;0;0;0;0
+recoverability;0;0;0;1;1
+reengineering;0;1;1;0;0
+reference;0;0;0;0;0
+refined;0;0;0;0;0
+refinement;0;0;0;1;1
+refines;0;1;0;1;0
+refines type;0;0;0;1;0
+relationship;0;1;1;0;1
+release time;0;0;0;0;0
+reliability;0;1;1;1;1
+reliability compliance;0;0;0;1;1
+replaceability;0;0;0;1;1
+replacement_list;0;0;0;0;0
+representation;0;0;0;1;1
+requires;0;1;1;1;1
+requirements;0;0;0;0;0
+requires bus access;0;0;0;1;1
+requires data access;0;0;0;1;1
+requires_part;0;0;0;0;0
+resolution;0;0;0;0;0
+resource consumption;0;0;0;1;1
+resource utilization;0;0;0;1;1
+responsability;0;0;0;0;0
+response time;0;0;0;1;1
+responsiveness;0;0;0;1;1
+reusability;0;1;0;1;1
+robustness;0;1;0;1;1
+role;0;0;0;1;1
+runtime behavior;0;0;0;0;0
+scalability;0;1;1;1;1
+security;0;1;0;1;1
+security-by-construction;0;0;0;0;0
+semantics;0;0;0;0;0
+separation of concerns;0;1;1;1;1
+server;0;0;0;1;0
+service;1;0;0;1;1
+service_declaration;0;0;0;0;0
+set;0;0;0;1;0
+shared-data;0;0;0;0;1
+simplicity;0;0;0;1;1
+sink;0;0;0;1;1
+size;0;0;0;0;0
+source;0;0;0;1;1
+space;0;0;0;1;1
+spec;0;0;0;0;0
+speed efficiency;0;0;0;1;1
+stability;0;1;1;1;1
+start and end;0;0;0;0;0
+state_trasition_rule;0;0;0;1;0
+static_data;0;0;0;0;0
+string;0;0;0;0;0
+structural decomposition;0;1;1;0;1
+style;0;0;1;1;1
+subcomponents;0;1;1;1;1
+subprograms;0;1;0;1;0
+subscriptions;0;0;0;0;0
+subtype;0;0;1;0;1
+sufficency;0;0;0;0;0
+switch;0;0;0;0;0
+synchronization;0;0;0;0;0
+system;0;0;0;1;1
+task allocation;0;0;0;0;1
+testability;0;1;1;1;1
+thread;0;0;0;1;1
+thread group;0;0;0;1;0
+throughput;0;0;0;1;1
+time behavior;0;0;0;1;1
+timeliness;0;0;0;1;1
+to;0;0;0;0;0
+tolerant delay;0;0;0;0;0
+total energy;0;0;0;0;0
+traceability;0;0;0;1;1
+traceable;0;0;0;0;0
+trasition_body;0;0;0;1;0
+trigger;0;0;0;0;0
+true;0;0;0;0;0
+type;0;1;0;1;1
+type_constructor_application;0;0;0;0;0
+type_constructor_declaration;0;0;0;0;0
+type_constructor_expression;0;0;0;0;0
+type_constructor_name_declaration;0;0;0;0;0
+type_declaration;0;0;0;0;0
+type_expression;0;0;0;0;0
+type_name_declaration;0;0;0;0;0
+types;0;0;0;0;0
+ubiquity;0;0;0;1;1
+unambiguous;0;0;0;0;0
+understandability;0;0;0;1;1
+union;0;0;0;0;0
+units;0;0;0;0;0
+unnecessary work;0;0;0;0;0
+usability;0;0;0;1;1
+usability compliance;0;0;0;1;1
+usable;0;0;0;0;0
+usefulness;0;0;0;0;0
+user-friendliness;0;0;0;1;0
+value;0;0;0;0;0
+variability;0;1;0;1;1
+verifiable;0;0;0;0;0
+view;0;0;0;0;1
+visibility;0;0;0;1;1
+volatility;0;0;0;1;1
+when;0;0;0;0;0
+whole-part;0;1;0;0;1
+with;0;0;0;0;0
